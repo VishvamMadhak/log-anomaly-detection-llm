@@ -1,0 +1,1001 @@
+timestamp,ip_address,user_id,event_type,severity,status_code,response_time,log_message,is_anomaly
+2025-01-13 13:07:32.455731,192.168.1.34,user_012,LOGIN,INFO,201,205.16,Success: LOGIN completed normally. Response time: 205.16ms,0
+2025-01-13 13:08:40.455731,192.168.1.28,user_009,API_CALL,INFO,200,216.87,Success: API_CALL completed normally. Response time: 216.87ms,0
+2025-01-13 13:33:36.455731,192.168.1.5,user_002,FILE_ACCESS,INFO,200,158.41,Success: FILE_ACCESS completed normally. Response time: 158.41ms,0
+2025-01-13 13:40:18.455731,192.168.1.50,user_013,SYSTEM_UPDATE,ERROR,403,237.52,Client Error: SYSTEM_UPDATE request failed with status 403. Response time: 237.52ms,0
+2025-01-13 13:51:22.455731,192.168.1.7,user_010,LOGOUT,ERROR,404,141.02,Client Error: LOGOUT request failed with status 404. Response time: 141.02ms,0
+2025-01-13 13:53:32.455731,192.168.1.34,user_018,DATABASE_QUERY,INFO,201,198.05,Success: DATABASE_QUERY completed normally. Response time: 198.05ms,0
+2025-01-13 13:55:47.455731,192.168.1.39,user_012,API_CALL,INFO,200,248.09,Success: API_CALL completed normally. Response time: 248.09ms,0
+2025-01-13 14:07:23.455731,192.168.1.34,user_012,API_CALL,INFO,200,146.47,Success: API_CALL completed normally. Response time: 146.47ms,0
+2025-01-13 14:07:42.455731,192.168.1.29,user_013,API_CALL,INFO,200,245.76,Success: API_CALL completed normally. Response time: 245.76ms,0
+2025-01-13 14:18:41.455731,192.168.1.45,user_015,SYSTEM_UPDATE,CRITICAL,500,226.53,Server Error: SYSTEM_UPDATE failed with status 500. Response time: 226.53ms,1
+2025-01-13 14:29:22.455731,192.168.1.31,user_002,SYSTEM_UPDATE,INFO,201,169.25,Success: SYSTEM_UPDATE completed normally. Response time: 169.25ms,0
+2025-01-13 14:34:18.455731,192.168.1.50,user_001,DATABASE_QUERY,INFO,200,207.21,Success: DATABASE_QUERY completed normally. Response time: 207.21ms,0
+2025-01-13 14:34:46.455731,192.168.1.49,user_002,SYSTEM_UPDATE,INFO,200,224.99,Success: SYSTEM_UPDATE completed normally. Response time: 224.99ms,0
+2025-01-13 14:41:39.455731,192.168.1.8,user_008,SYSTEM_UPDATE,INFO,200,188.12,Success: SYSTEM_UPDATE completed normally. Response time: 188.12ms,0
+2025-01-13 14:42:34.455731,192.168.1.50,user_019,API_CALL,INFO,200,246.92,Success: API_CALL completed normally. Response time: 246.92ms,0
+2025-01-13 15:10:11.455731,192.168.1.47,user_004,LOGIN,INFO,201,176.03,Success: LOGIN completed normally. Response time: 176.03ms,0
+2025-01-13 15:35:50.455731,192.168.1.47,user_001,FILE_ACCESS,INFO,200,199.98,Success: FILE_ACCESS completed normally. Response time: 199.98ms,0
+2025-01-13 15:45:23.455731,192.168.1.44,user_003,DATABASE_QUERY,INFO,200,231.94,Success: DATABASE_QUERY completed normally. Response time: 231.94ms,0
+2025-01-13 16:01:00.455731,192.168.1.4,user_009,LOGIN,INFO,200,182.27,Success: LOGIN completed normally. Response time: 182.27ms,0
+2025-01-13 16:03:16.455731,192.168.1.2,user_001,DATABASE_QUERY,INFO,200,186.57,Success: DATABASE_QUERY completed normally. Response time: 186.57ms,0
+2025-01-13 16:12:52.455731,192.168.1.26,user_007,SYSTEM_UPDATE,ERROR,400,264.56,Client Error: SYSTEM_UPDATE request failed with status 400. Response time: 264.56ms,0
+2025-01-13 16:13:42.455731,192.168.1.13,user_019,SYSTEM_UPDATE,INFO,200,229.54,Success: SYSTEM_UPDATE completed normally. Response time: 229.54ms,0
+2025-01-13 16:17:32.455731,192.168.1.7,user_005,LOGIN,INFO,201,301.24,Success: LOGIN completed normally. Response time: 301.24ms,0
+2025-01-13 16:27:45.455731,192.168.1.47,user_018,API_CALL,INFO,200,275.09,Success: API_CALL completed normally. Response time: 275.09ms,0
+2025-01-13 16:45:28.455731,192.168.1.24,user_015,API_CALL,ERROR,404,192.35,Client Error: API_CALL request failed with status 404. Response time: 192.35ms,0
+2025-01-13 16:52:22.455731,192.168.1.47,user_017,DATABASE_QUERY,ERROR,400,208.96,Client Error: DATABASE_QUERY request failed with status 400. Response time: 208.96ms,0
+2025-01-13 16:56:54.455731,192.168.1.42,user_003,FILE_ACCESS,INFO,200,306.48,Success: FILE_ACCESS completed normally. Response time: 306.48ms,0
+2025-01-13 16:57:39.455731,192.168.1.13,user_015,SYSTEM_UPDATE,INFO,200,180.24,Success: SYSTEM_UPDATE completed normally. Response time: 180.24ms,0
+2025-01-13 17:05:32.455731,192.168.1.46,user_018,DATABASE_QUERY,ERROR,401,269.22,Client Error: DATABASE_QUERY request failed with status 401. Response time: 269.22ms,0
+2025-01-13 17:22:39.455731,192.168.1.7,user_007,DATABASE_QUERY,INFO,200,172.8,Success: DATABASE_QUERY completed normally. Response time: 172.80ms,0
+2025-01-13 17:29:14.455731,192.168.1.2,user_020,DATABASE_QUERY,INFO,200,219.37,Success: DATABASE_QUERY completed normally. Response time: 219.37ms,0
+2025-01-13 17:29:20.455731,192.168.1.11,user_020,LOGIN,INFO,200,160.76,Success: LOGIN completed normally. Response time: 160.76ms,0
+2025-01-13 17:31:07.455731,192.168.1.13,user_017,SYSTEM_UPDATE,INFO,200,298.7,Success: SYSTEM_UPDATE completed normally. Response time: 298.70ms,0
+2025-01-13 17:53:32.455731,192.168.1.50,user_003,SYSTEM_UPDATE,INFO,200,246.23,Success: SYSTEM_UPDATE completed normally. Response time: 246.23ms,0
+2025-01-13 18:00:58.455731,192.168.1.28,user_003,DATABASE_QUERY,INFO,200,193.36,Success: DATABASE_QUERY completed normally. Response time: 193.36ms,0
+2025-01-13 18:01:39.455731,192.168.1.43,user_013,FILE_ACCESS,INFO,200,177.87,Success: FILE_ACCESS completed normally. Response time: 177.87ms,0
+2025-01-13 18:34:55.455731,192.168.1.50,user_011,API_CALL,INFO,201,175.68,Success: API_CALL completed normally. Response time: 175.68ms,0
+2025-01-13 18:35:40.455731,192.168.1.6,user_009,LOGOUT,INFO,200,213.86,Success: LOGOUT completed normally. Response time: 213.86ms,0
+2025-01-13 18:59:43.455731,192.168.1.4,user_014,SYSTEM_UPDATE,INFO,200,246.23,Success: SYSTEM_UPDATE completed normally. Response time: 246.23ms,0
+2025-01-13 19:03:00.455731,192.168.1.43,user_003,FILE_ACCESS,INFO,200,273.5,Success: FILE_ACCESS completed normally. Response time: 273.50ms,0
+2025-01-13 19:08:11.455731,192.168.1.41,user_005,SYSTEM_UPDATE,INFO,201,281.56,Success: SYSTEM_UPDATE completed normally. Response time: 281.56ms,0
+2025-01-13 19:13:18.455731,192.168.1.5,user_014,FILE_ACCESS,INFO,200,189.76,Success: FILE_ACCESS completed normally. Response time: 189.76ms,0
+2025-01-13 19:41:11.455731,192.168.1.23,user_019,SYSTEM_UPDATE,ERROR,400,165.49,Client Error: SYSTEM_UPDATE request failed with status 400. Response time: 165.49ms,0
+2025-01-13 19:47:11.455731,192.168.1.24,user_009,FILE_ACCESS,INFO,200,193.86,Success: FILE_ACCESS completed normally. Response time: 193.86ms,0
+2025-01-13 19:49:51.455731,192.168.1.14,user_001,DATABASE_QUERY,INFO,200,273.43,Success: DATABASE_QUERY completed normally. Response time: 273.43ms,0
+2025-01-13 20:00:34.455731,192.168.1.36,user_014,FILE_ACCESS,INFO,200,145.17,Success: FILE_ACCESS completed normally. Response time: 145.17ms,0
+2025-01-13 20:06:19.455731,192.168.1.50,user_003,SYSTEM_UPDATE,INFO,200,193.73,Success: SYSTEM_UPDATE completed normally. Response time: 193.73ms,0
+2025-01-13 20:37:29.455731,192.168.1.7,user_017,API_CALL,ERROR,400,191.88,Client Error: API_CALL request failed with status 400. Response time: 191.88ms,0
+2025-01-13 21:28:11.455731,192.168.1.44,user_006,LOGIN,ERROR,400,264.21,Client Error: LOGIN request failed with status 400. Response time: 264.21ms,0
+2025-01-13 21:30:13.455731,192.168.1.2,user_012,FILE_ACCESS,INFO,200,263.42,Success: FILE_ACCESS completed normally. Response time: 263.42ms,0
+2025-01-13 22:00:42.455731,192.168.1.1,user_017,LOGOUT,INFO,200,171.3,Success: LOGOUT completed normally. Response time: 171.30ms,0
+2025-01-13 22:04:35.455731,192.168.1.35,user_013,LOGOUT,INFO,200,277.6,Success: LOGOUT completed normally. Response time: 277.60ms,0
+2025-01-13 22:12:17.455731,192.168.1.47,user_009,FILE_ACCESS,INFO,201,258.63,Success: FILE_ACCESS completed normally. Response time: 258.63ms,0
+2025-01-13 22:14:54.455731,192.168.1.49,user_003,FILE_ACCESS,INFO,200,183.69,Success: FILE_ACCESS completed normally. Response time: 183.69ms,0
+2025-01-13 22:16:18.455731,192.168.1.7,user_004,LOGIN,CRITICAL,500,217.74,Server Error: LOGIN failed with status 500. Response time: 217.74ms,1
+2025-01-13 22:20:44.455731,192.168.1.5,user_004,LOGOUT,INFO,201,152.68,Success: LOGOUT completed normally. Response time: 152.68ms,0
+2025-01-13 22:24:25.455731,192.168.1.3,user_005,FILE_ACCESS,INFO,200,166.91,Success: FILE_ACCESS completed normally. Response time: 166.91ms,0
+2025-01-13 22:40:13.455731,192.168.1.19,user_006,SYSTEM_UPDATE,INFO,200,224.03,Success: SYSTEM_UPDATE completed normally. Response time: 224.03ms,0
+2025-01-13 22:50:37.455731,192.168.1.32,user_009,LOGIN,INFO,200,119.14,Success: LOGIN completed normally. Response time: 119.14ms,0
+2025-01-13 22:57:22.455731,192.168.1.45,user_019,LOGIN,ERROR,400,206.13,Client Error: LOGIN request failed with status 400. Response time: 206.13ms,0
+2025-01-13 23:01:42.455731,192.168.1.22,user_013,API_CALL,INFO,200,192.12,Success: API_CALL completed normally. Response time: 192.12ms,0
+2025-01-13 23:55:06.455731,192.168.1.10,user_004,SYSTEM_UPDATE,CRITICAL,503,192.29,Server Error: SYSTEM_UPDATE failed with status 503. Response time: 192.29ms,1
+2025-01-13 23:58:46.455731,192.168.1.39,user_001,API_CALL,INFO,200,276.23,Success: API_CALL completed normally. Response time: 276.23ms,0
+2025-01-14 00:02:28.455731,192.168.1.21,user_004,LOGOUT,INFO,200,204.38,Success: LOGOUT completed normally. Response time: 204.38ms,0
+2025-01-14 00:20:29.455731,192.168.1.18,user_019,SYSTEM_UPDATE,INFO,200,231.83,Success: SYSTEM_UPDATE completed normally. Response time: 231.83ms,0
+2025-01-14 00:33:02.455731,192.168.1.42,user_003,FILE_ACCESS,ERROR,401,219.44,Client Error: FILE_ACCESS request failed with status 401. Response time: 219.44ms,0
+2025-01-14 00:34:00.455731,192.168.1.27,user_003,SYSTEM_UPDATE,ERROR,401,231.94,Client Error: SYSTEM_UPDATE request failed with status 401. Response time: 231.94ms,0
+2025-01-14 00:47:51.455731,192.168.1.47,user_011,SYSTEM_UPDATE,INFO,200,91.39,Success: SYSTEM_UPDATE completed normally. Response time: 91.39ms,0
+2025-01-14 00:50:07.455731,192.168.1.11,user_001,LOGIN,ERROR,400,213.94,Client Error: LOGIN request failed with status 400. Response time: 213.94ms,0
+2025-01-14 01:01:01.455731,192.168.1.37,user_020,FILE_ACCESS,INFO,200,280.22,Success: FILE_ACCESS completed normally. Response time: 280.22ms,0
+2025-01-14 01:01:31.455731,192.168.1.29,user_016,LOGIN,INFO,200,96.95,Success: LOGIN completed normally. Response time: 96.95ms,0
+2025-01-14 01:02:45.455731,192.168.1.19,user_012,API_CALL,INFO,200,249.17,Success: API_CALL completed normally. Response time: 249.17ms,0
+2025-01-14 01:13:47.455731,192.168.1.11,user_011,FILE_ACCESS,INFO,200,155.65,Success: FILE_ACCESS completed normally. Response time: 155.65ms,0
+2025-01-14 01:26:48.455731,192.168.1.28,user_003,SYSTEM_UPDATE,INFO,200,159.64,Success: SYSTEM_UPDATE completed normally. Response time: 159.64ms,0
+2025-01-14 01:31:30.455731,192.168.1.10,user_011,DATABASE_QUERY,INFO,200,109.18,Success: DATABASE_QUERY completed normally. Response time: 109.18ms,0
+2025-01-14 01:32:37.455731,192.168.1.9,user_009,FILE_ACCESS,INFO,200,197.24,Success: FILE_ACCESS completed normally. Response time: 197.24ms,0
+2025-01-14 01:37:27.455731,192.168.1.28,user_006,LOGOUT,INFO,200,184.74,Success: LOGOUT completed normally. Response time: 184.74ms,0
+2025-01-14 01:41:32.455731,192.168.1.11,user_012,LOGOUT,CRITICAL,500,223.41,Server Error: LOGOUT failed with status 500. Response time: 223.41ms,1
+2025-01-14 01:47:33.455731,192.168.1.42,user_010,LOGIN,INFO,200,326.94,Success: LOGIN completed normally. Response time: 326.94ms,0
+2025-01-14 02:18:47.455731,192.168.1.32,user_006,DATABASE_QUERY,INFO,201,225.04,Success: DATABASE_QUERY completed normally. Response time: 225.04ms,0
+2025-01-14 02:21:17.455731,192.168.1.29,user_007,FILE_ACCESS,ERROR,403,202.45,Client Error: FILE_ACCESS request failed with status 403. Response time: 202.45ms,0
+2025-01-14 02:25:20.455731,192.168.1.1,user_010,DATABASE_QUERY,INFO,201,221.77,Success: DATABASE_QUERY completed normally. Response time: 221.77ms,0
+2025-01-14 02:28:50.455731,192.168.1.6,user_007,SYSTEM_UPDATE,ERROR,404,217.74,Client Error: SYSTEM_UPDATE request failed with status 404. Response time: 217.74ms,0
+2025-01-14 02:48:40.455731,192.168.1.41,user_012,DATABASE_QUERY,INFO,200,232.0,Success: DATABASE_QUERY completed normally. Response time: 232.00ms,0
+2025-01-14 02:53:21.455731,192.168.1.6,user_010,DATABASE_QUERY,ERROR,404,137.89,Client Error: DATABASE_QUERY request failed with status 404. Response time: 137.89ms,0
+2025-01-14 02:55:16.455731,192.168.1.40,user_005,LOGIN,ERROR,403,214.31,Client Error: LOGIN request failed with status 403. Response time: 214.31ms,0
+2025-01-14 03:00:44.455731,192.168.1.6,user_004,SYSTEM_UPDATE,INFO,200,160.58,Success: SYSTEM_UPDATE completed normally. Response time: 160.58ms,0
+2025-01-14 03:02:17.455731,192.168.1.48,user_004,LOGIN,ERROR,404,172.81,Client Error: LOGIN request failed with status 404. Response time: 172.81ms,0
+2025-01-14 03:14:25.455731,192.168.1.21,user_014,SYSTEM_UPDATE,ERROR,401,160.01,Client Error: SYSTEM_UPDATE request failed with status 401. Response time: 160.01ms,0
+2025-01-14 03:15:32.455731,192.168.1.44,user_019,LOGOUT,INFO,201,160.56,Success: LOGOUT completed normally. Response time: 160.56ms,0
+2025-01-14 03:20:08.455731,192.168.1.4,user_017,FILE_ACCESS,ERROR,400,161.21,Client Error: FILE_ACCESS request failed with status 400. Response time: 161.21ms,0
+2025-01-14 03:22:08.455731,192.168.1.43,user_011,SYSTEM_UPDATE,INFO,200,145.57,Success: SYSTEM_UPDATE completed normally. Response time: 145.57ms,0
+2025-01-14 03:22:50.455731,192.168.1.4,user_014,DATABASE_QUERY,INFO,200,207.55,Success: DATABASE_QUERY completed normally. Response time: 207.55ms,0
+2025-01-14 03:31:55.455731,192.168.1.30,user_019,FILE_ACCESS,INFO,200,173.77,Success: FILE_ACCESS completed normally. Response time: 173.77ms,0
+2025-01-14 03:36:31.455731,192.168.1.25,user_001,LOGIN,INFO,200,217.22,Success: LOGIN completed normally. Response time: 217.22ms,0
+2025-01-14 03:37:38.455731,192.168.1.14,user_013,API_CALL,ERROR,404,212.12,Client Error: API_CALL request failed with status 404. Response time: 212.12ms,0
+2025-01-14 03:44:00.455731,192.168.1.21,user_004,SYSTEM_UPDATE,INFO,200,180.96,Success: SYSTEM_UPDATE completed normally. Response time: 180.96ms,0
+2025-01-14 04:01:20.455731,192.168.1.5,user_020,LOGOUT,INFO,201,175.74,Success: LOGOUT completed normally. Response time: 175.74ms,0
+2025-01-14 04:05:44.455731,192.168.1.35,user_006,FILE_ACCESS,INFO,200,84.95,Success: FILE_ACCESS completed normally. Response time: 84.95ms,0
+2025-01-14 04:07:37.455731,192.168.1.1,user_017,API_CALL,ERROR,400,257.49,Client Error: API_CALL request failed with status 400. Response time: 257.49ms,0
+2025-01-14 04:28:22.455731,192.168.1.4,user_020,SYSTEM_UPDATE,INFO,200,167.85,Success: SYSTEM_UPDATE completed normally. Response time: 167.85ms,0
+2025-01-14 04:31:02.455731,192.168.1.14,user_010,FILE_ACCESS,INFO,201,191.84,Success: FILE_ACCESS completed normally. Response time: 191.84ms,0
+2025-01-14 04:31:43.455731,192.168.1.40,user_014,LOGOUT,INFO,200,158.51,Success: LOGOUT completed normally. Response time: 158.51ms,0
+2025-01-14 04:40:30.455731,192.168.1.47,user_007,DATABASE_QUERY,INFO,200,316.76,Success: DATABASE_QUERY completed normally. Response time: 316.76ms,0
+2025-01-14 04:53:15.455731,192.168.1.30,user_004,LOGIN,CRITICAL,500,281.3,Server Error: LOGIN failed with status 500. Response time: 281.30ms,1
+2025-01-14 05:01:07.455731,192.168.1.35,user_013,FILE_ACCESS,INFO,200,143.7,Success: FILE_ACCESS completed normally. Response time: 143.70ms,0
+2025-01-14 05:16:10.455731,192.168.1.33,user_019,FILE_ACCESS,INFO,200,233.99,Success: FILE_ACCESS completed normally. Response time: 233.99ms,0
+2025-01-14 05:24:56.455731,192.168.1.29,user_001,FILE_ACCESS,INFO,200,216.45,Success: FILE_ACCESS completed normally. Response time: 216.45ms,0
+2025-01-14 05:33:46.455731,192.168.1.14,user_001,API_CALL,INFO,200,212.21,Success: API_CALL completed normally. Response time: 212.21ms,0
+2025-01-14 05:47:05.455731,192.168.1.38,user_010,DATABASE_QUERY,INFO,200,212.9,Success: DATABASE_QUERY completed normally. Response time: 212.90ms,0
+2025-01-14 05:54:08.455731,192.168.1.20,user_020,LOGIN,INFO,200,238.79,Success: LOGIN completed normally. Response time: 238.79ms,0
+2025-01-14 06:15:06.455731,192.168.1.4,user_013,LOGIN,INFO,200,151.68,Success: LOGIN completed normally. Response time: 151.68ms,0
+2025-01-14 06:25:16.455731,192.168.1.39,user_020,LOGOUT,INFO,200,211.9,Success: LOGOUT completed normally. Response time: 211.90ms,0
+2025-01-14 06:29:17.455731,192.168.1.1,user_020,FILE_ACCESS,ERROR,401,190.01,Client Error: FILE_ACCESS request failed with status 401. Response time: 190.01ms,0
+2025-01-14 06:37:36.455731,192.168.1.2,user_017,LOGIN,INFO,200,196.35,Success: LOGIN completed normally. Response time: 196.35ms,0
+2025-01-14 06:39:33.455731,192.168.1.47,user_005,LOGIN,ERROR,401,229.33,Client Error: LOGIN request failed with status 401. Response time: 229.33ms,0
+2025-01-14 06:43:58.455731,192.168.1.50,user_020,LOGOUT,INFO,200,156.86,Success: LOGOUT completed normally. Response time: 156.86ms,0
+2025-01-14 06:50:28.455731,192.168.1.10,user_003,SYSTEM_UPDATE,INFO,200,157.4,Success: SYSTEM_UPDATE completed normally. Response time: 157.40ms,0
+2025-01-14 06:50:42.455731,192.168.1.27,user_004,LOGOUT,INFO,200,237.39,Success: LOGOUT completed normally. Response time: 237.39ms,0
+2025-01-14 06:57:35.455731,192.168.1.37,user_010,SYSTEM_UPDATE,INFO,200,146.55,Success: SYSTEM_UPDATE completed normally. Response time: 146.55ms,0
+2025-01-14 06:57:53.455731,192.168.1.28,user_006,LOGOUT,INFO,200,200.61,Success: LOGOUT completed normally. Response time: 200.61ms,0
+2025-01-14 07:08:19.455731,192.168.1.28,user_001,FILE_ACCESS,INFO,200,215.07,Success: FILE_ACCESS completed normally. Response time: 215.07ms,0
+2025-01-14 07:15:52.455731,192.168.1.21,user_015,DATABASE_QUERY,INFO,200,162.34,Success: DATABASE_QUERY completed normally. Response time: 162.34ms,0
+2025-01-14 07:27:07.455731,192.168.1.13,user_009,LOGOUT,INFO,200,124.05,Success: LOGOUT completed normally. Response time: 124.05ms,0
+2025-01-14 07:30:20.455731,192.168.1.9,user_006,DATABASE_QUERY,ERROR,401,215.14,Client Error: DATABASE_QUERY request failed with status 401. Response time: 215.14ms,0
+2025-01-14 07:33:20.455731,192.168.1.40,user_013,DATABASE_QUERY,INFO,200,121.0,Success: DATABASE_QUERY completed normally. Response time: 121.00ms,0
+2025-01-14 07:33:33.455731,192.168.1.30,user_016,FILE_ACCESS,INFO,200,177.99,Success: FILE_ACCESS completed normally. Response time: 177.99ms,0
+2025-01-14 07:37:18.455731,192.168.1.39,user_016,API_CALL,INFO,200,185.02,Success: API_CALL completed normally. Response time: 185.02ms,0
+2025-01-14 07:58:20.455731,192.168.1.49,user_020,LOGOUT,INFO,200,164.22,Success: LOGOUT completed normally. Response time: 164.22ms,0
+2025-01-14 08:14:01.455731,192.168.1.37,user_001,FILE_ACCESS,INFO,200,203.62,Success: FILE_ACCESS completed normally. Response time: 203.62ms,0
+2025-01-14 08:22:44.455731,192.168.1.29,user_008,LOGOUT,INFO,200,176.23,Success: LOGOUT completed normally. Response time: 176.23ms,0
+2025-01-14 08:27:08.455731,192.168.1.19,user_007,LOGIN,INFO,200,164.13,Success: LOGIN completed normally. Response time: 164.13ms,0
+2025-01-14 08:40:32.455731,192.168.1.31,user_002,API_CALL,INFO,200,149.52,Success: API_CALL completed normally. Response time: 149.52ms,0
+2025-01-14 08:41:07.455731,192.168.1.2,user_019,API_CALL,INFO,200,242.67,Success: API_CALL completed normally. Response time: 242.67ms,0
+2025-01-14 09:01:58.455731,192.168.1.37,user_011,FILE_ACCESS,INFO,200,240.48,Success: FILE_ACCESS completed normally. Response time: 240.48ms,0
+2025-01-14 09:03:56.455731,192.168.1.50,user_009,FILE_ACCESS,INFO,200,270.94,Success: FILE_ACCESS completed normally. Response time: 270.94ms,0
+2025-01-14 09:44:49.455731,192.168.1.43,user_019,FILE_ACCESS,INFO,200,245.58,Success: FILE_ACCESS completed normally. Response time: 245.58ms,0
+2025-01-14 09:49:18.455731,192.168.1.41,user_001,LOGIN,ERROR,400,134.24,Client Error: LOGIN request failed with status 400. Response time: 134.24ms,0
+2025-01-14 10:04:10.455731,192.168.1.8,user_010,FILE_ACCESS,INFO,200,203.16,Success: FILE_ACCESS completed normally. Response time: 203.16ms,0
+2025-01-14 10:06:18.455731,192.168.1.12,user_008,LOGIN,INFO,200,214.97,Success: LOGIN completed normally. Response time: 214.97ms,0
+2025-01-14 10:10:47.455731,192.168.1.5,user_017,SYSTEM_UPDATE,INFO,201,209.42,Success: SYSTEM_UPDATE completed normally. Response time: 209.42ms,0
+2025-01-14 10:10:53.455731,192.168.1.34,user_014,DATABASE_QUERY,INFO,200,143.33,Success: DATABASE_QUERY completed normally. Response time: 143.33ms,0
+2025-01-14 10:12:13.455731,192.168.1.17,user_009,API_CALL,INFO,200,276.53,Success: API_CALL completed normally. Response time: 276.53ms,0
+2025-01-14 10:15:23.455731,192.168.1.39,user_018,API_CALL,INFO,201,262.1,Success: API_CALL completed normally. Response time: 262.10ms,0
+2025-01-14 10:30:48.455731,192.168.1.14,user_001,LOGIN,INFO,200,203.88,Success: LOGIN completed normally. Response time: 203.88ms,0
+2025-01-14 10:31:42.455731,192.168.1.5,user_017,LOGIN,INFO,201,142.94,Success: LOGIN completed normally. Response time: 142.94ms,0
+2025-01-14 10:51:11.455731,192.168.1.17,user_014,LOGOUT,INFO,200,230.09,Success: LOGOUT completed normally. Response time: 230.09ms,0
+2025-01-14 10:59:51.455731,192.168.1.11,user_011,API_CALL,INFO,200,165.7,Success: API_CALL completed normally. Response time: 165.70ms,0
+2025-01-14 11:00:18.455731,192.168.1.46,user_017,SYSTEM_UPDATE,ERROR,400,213.95,Client Error: SYSTEM_UPDATE request failed with status 400. Response time: 213.95ms,0
+2025-01-14 11:03:17.455731,192.168.1.7,user_019,FILE_ACCESS,INFO,200,211.39,Success: FILE_ACCESS completed normally. Response time: 211.39ms,0
+2025-01-14 11:07:36.455731,192.168.1.39,user_013,DATABASE_QUERY,INFO,200,212.92,Success: DATABASE_QUERY completed normally. Response time: 212.92ms,0
+2025-01-14 11:07:47.455731,192.168.1.27,user_006,FILE_ACCESS,INFO,200,148.55,Success: FILE_ACCESS completed normally. Response time: 148.55ms,0
+2025-01-14 11:08:43.455731,192.168.1.41,user_005,DATABASE_QUERY,INFO,200,136.79,Success: DATABASE_QUERY completed normally. Response time: 136.79ms,0
+2025-01-14 11:22:03.455731,192.168.1.50,user_009,SYSTEM_UPDATE,ERROR,400,292.35,Client Error: SYSTEM_UPDATE request failed with status 400. Response time: 292.35ms,0
+2025-01-14 11:26:09.455731,192.168.1.37,user_010,LOGOUT,INFO,200,225.35,Success: LOGOUT completed normally. Response time: 225.35ms,0
+2025-01-14 11:29:38.455731,192.168.1.5,user_011,DATABASE_QUERY,INFO,200,256.7,Success: DATABASE_QUERY completed normally. Response time: 256.70ms,0
+2025-01-14 12:20:36.455731,192.168.1.47,user_009,FILE_ACCESS,INFO,200,223.09,Success: FILE_ACCESS completed normally. Response time: 223.09ms,0
+2025-01-14 12:26:01.455731,192.168.1.39,user_014,API_CALL,ERROR,400,186.11,Client Error: API_CALL request failed with status 400. Response time: 186.11ms,0
+2025-01-14 12:44:34.455731,192.168.1.39,user_015,API_CALL,INFO,200,150.03,Success: API_CALL completed normally. Response time: 150.03ms,0
+2025-01-14 12:56:35.455731,192.168.1.17,user_007,API_CALL,ERROR,400,232.57,Client Error: API_CALL request failed with status 400. Response time: 232.57ms,0
+2025-01-14 12:59:20.455731,192.168.1.2,user_001,SYSTEM_UPDATE,INFO,200,190.29,Success: SYSTEM_UPDATE completed normally. Response time: 190.29ms,0
+2025-01-14 13:04:42.455731,192.168.1.22,user_004,FILE_ACCESS,INFO,200,297.07,Success: FILE_ACCESS completed normally. Response time: 297.07ms,0
+2025-01-14 13:07:17.455731,192.168.1.18,user_012,SYSTEM_UPDATE,INFO,200,343.64,Success: SYSTEM_UPDATE completed normally. Response time: 343.64ms,0
+2025-01-14 13:07:45.455731,192.168.1.41,user_012,LOGIN,INFO,200,233.25,Success: LOGIN completed normally. Response time: 233.25ms,0
+2025-01-14 13:11:48.455731,192.168.1.23,user_002,SYSTEM_UPDATE,INFO,201,209.42,Success: SYSTEM_UPDATE completed normally. Response time: 209.42ms,0
+2025-01-14 13:12:54.455731,192.168.1.38,user_015,FILE_ACCESS,INFO,200,137.74,Success: FILE_ACCESS completed normally. Response time: 137.74ms,0
+2025-01-14 13:16:09.455731,192.168.1.18,user_012,LOGOUT,INFO,200,214.29,Success: LOGOUT completed normally. Response time: 214.29ms,0
+2025-01-14 13:16:40.455731,192.168.1.40,user_013,DATABASE_QUERY,ERROR,401,203.33,Client Error: DATABASE_QUERY request failed with status 401. Response time: 203.33ms,0
+2025-01-14 13:19:04.455731,192.168.1.39,user_018,LOGOUT,INFO,200,236.42,Success: LOGOUT completed normally. Response time: 236.42ms,0
+2025-01-14 13:56:18.455731,192.168.1.17,user_012,LOGOUT,INFO,200,154.09,Success: LOGOUT completed normally. Response time: 154.09ms,0
+2025-01-14 14:18:37.455731,192.168.1.25,user_011,LOGOUT,INFO,201,194.9,Success: LOGOUT completed normally. Response time: 194.90ms,0
+2025-01-14 14:32:38.455731,192.168.1.50,user_010,SYSTEM_UPDATE,INFO,200,251.73,Success: SYSTEM_UPDATE completed normally. Response time: 251.73ms,0
+2025-01-14 14:34:11.455731,192.168.1.4,user_019,SYSTEM_UPDATE,INFO,200,272.75,Success: SYSTEM_UPDATE completed normally. Response time: 272.75ms,0
+2025-01-14 14:47:50.455731,192.168.1.42,user_020,LOGIN,INFO,200,218.79,Success: LOGIN completed normally. Response time: 218.79ms,0
+2025-01-14 14:49:39.455731,192.168.1.46,user_014,DATABASE_QUERY,INFO,200,238.58,Success: DATABASE_QUERY completed normally. Response time: 238.58ms,0
+2025-01-14 15:10:41.455731,192.168.1.44,user_014,LOGOUT,INFO,200,212.27,Success: LOGOUT completed normally. Response time: 212.27ms,0
+2025-01-14 15:13:07.455731,192.168.1.37,user_014,LOGOUT,ERROR,401,262.01,Client Error: LOGOUT request failed with status 401. Response time: 262.01ms,0
+2025-01-14 15:22:29.455731,192.168.1.25,user_001,LOGIN,CRITICAL,500,113.76,Server Error: LOGIN failed with status 500. Response time: 113.76ms,1
+2025-01-14 15:24:39.455731,192.168.1.36,user_016,LOGIN,INFO,200,228.64,Success: LOGIN completed normally. Response time: 228.64ms,0
+2025-01-14 15:26:50.455731,192.168.1.8,user_011,LOGOUT,INFO,200,225.01,Success: LOGOUT completed normally. Response time: 225.01ms,0
+2025-01-14 15:38:32.455731,192.168.1.36,user_004,FILE_ACCESS,INFO,200,144.14,Success: FILE_ACCESS completed normally. Response time: 144.14ms,0
+2025-01-14 16:05:41.455731,192.168.1.47,user_003,SYSTEM_UPDATE,INFO,200,152.97,Success: SYSTEM_UPDATE completed normally. Response time: 152.97ms,0
+2025-01-14 16:13:53.455731,192.168.1.14,user_016,FILE_ACCESS,INFO,200,188.03,Success: FILE_ACCESS completed normally. Response time: 188.03ms,0
+2025-01-14 16:18:30.455731,192.168.1.47,user_013,FILE_ACCESS,INFO,200,132.83,Success: FILE_ACCESS completed normally. Response time: 132.83ms,0
+2025-01-14 16:25:39.455731,192.168.1.40,user_001,FILE_ACCESS,INFO,200,170.68,Success: FILE_ACCESS completed normally. Response time: 170.68ms,0
+2025-01-14 17:00:18.455731,192.168.1.1,user_002,LOGIN,CRITICAL,503,291.59,Server Error: LOGIN failed with status 503. Response time: 291.59ms,1
+2025-01-14 17:07:00.455731,192.168.1.46,user_006,DATABASE_QUERY,INFO,200,221.19,Success: DATABASE_QUERY completed normally. Response time: 221.19ms,0
+2025-01-14 17:10:55.455731,192.168.1.27,user_018,FILE_ACCESS,INFO,200,190.24,Success: FILE_ACCESS completed normally. Response time: 190.24ms,0
+2025-01-14 17:13:48.455731,192.168.1.47,user_019,LOGIN,INFO,200,215.19,Success: LOGIN completed normally. Response time: 215.19ms,0
+2025-01-14 17:27:34.455731,192.168.1.42,user_006,LOGOUT,INFO,200,154.71,Success: LOGOUT completed normally. Response time: 154.71ms,0
+2025-01-14 18:15:08.455731,192.168.1.29,user_014,DATABASE_QUERY,CRITICAL,500,218.7,Server Error: DATABASE_QUERY failed with status 500. Response time: 218.70ms,1
+2025-01-14 18:30:35.455731,192.168.1.25,user_017,LOGOUT,INFO,200,224.53,Success: LOGOUT completed normally. Response time: 224.53ms,0
+2025-01-14 18:44:16.455731,192.168.1.48,user_012,DATABASE_QUERY,INFO,200,265.2,Success: DATABASE_QUERY completed normally. Response time: 265.20ms,0
+2025-01-14 18:51:15.455731,192.168.1.16,user_014,API_CALL,ERROR,403,184.82,Client Error: API_CALL request failed with status 403. Response time: 184.82ms,0
+2025-01-14 18:54:23.455731,192.168.1.8,user_020,FILE_ACCESS,INFO,200,188.61,Success: FILE_ACCESS completed normally. Response time: 188.61ms,0
+2025-01-14 19:00:17.455731,192.168.1.43,user_012,SYSTEM_UPDATE,INFO,200,243.3,Success: SYSTEM_UPDATE completed normally. Response time: 243.30ms,0
+2025-01-14 19:06:07.455731,192.168.1.16,user_016,LOGIN,INFO,200,211.68,Success: LOGIN completed normally. Response time: 211.68ms,0
+2025-01-14 19:12:19.455731,192.168.1.38,user_017,LOGOUT,INFO,200,236.46,Success: LOGOUT completed normally. Response time: 236.46ms,0
+2025-01-14 19:20:35.455731,192.168.1.5,user_011,SYSTEM_UPDATE,CRITICAL,500,178.9,Server Error: SYSTEM_UPDATE failed with status 500. Response time: 178.90ms,1
+2025-01-14 19:48:10.455731,192.168.1.35,user_015,SYSTEM_UPDATE,INFO,200,155.59,Success: SYSTEM_UPDATE completed normally. Response time: 155.59ms,0
+2025-01-14 19:59:03.455731,192.168.1.9,user_007,DATABASE_QUERY,INFO,200,163.42,Success: DATABASE_QUERY completed normally. Response time: 163.42ms,0
+2025-01-14 20:09:32.455731,192.168.1.44,user_016,LOGOUT,INFO,200,239.02,Success: LOGOUT completed normally. Response time: 239.02ms,0
+2025-01-14 20:10:28.455731,192.168.1.22,user_018,LOGIN,INFO,200,222.36,Success: LOGIN completed normally. Response time: 222.36ms,0
+2025-01-14 20:19:39.455731,192.168.1.30,user_020,DATABASE_QUERY,ERROR,401,109.76,Client Error: DATABASE_QUERY request failed with status 401. Response time: 109.76ms,0
+2025-01-14 20:34:00.455731,192.168.1.36,user_009,API_CALL,INFO,200,168.86,Success: API_CALL completed normally. Response time: 168.86ms,0
+2025-01-14 20:39:20.455731,192.168.1.14,user_001,API_CALL,INFO,200,244.14,Success: API_CALL completed normally. Response time: 244.14ms,0
+2025-01-14 20:48:27.455731,192.168.1.30,user_013,LOGOUT,INFO,200,129.06,Success: LOGOUT completed normally. Response time: 129.06ms,0
+2025-01-14 20:49:15.455731,192.168.1.4,user_007,FILE_ACCESS,INFO,201,309.12,Success: FILE_ACCESS completed normally. Response time: 309.12ms,0
+2025-01-14 20:56:57.455731,192.168.1.39,user_020,LOGIN,INFO,200,157.35,Success: LOGIN completed normally. Response time: 157.35ms,0
+2025-01-14 20:57:33.455731,192.168.1.30,user_006,LOGIN,INFO,200,142.26,Success: LOGIN completed normally. Response time: 142.26ms,0
+2025-01-14 21:12:23.455731,192.168.1.26,user_002,LOGOUT,INFO,200,183.97,Success: LOGOUT completed normally. Response time: 183.97ms,0
+2025-01-14 21:21:45.455731,192.168.1.30,user_003,SYSTEM_UPDATE,INFO,200,226.43,Success: SYSTEM_UPDATE completed normally. Response time: 226.43ms,0
+2025-01-14 21:31:44.455731,192.168.1.11,user_010,FILE_ACCESS,INFO,200,190.83,Success: FILE_ACCESS completed normally. Response time: 190.83ms,0
+2025-01-14 21:37:20.455731,192.168.1.13,user_007,FILE_ACCESS,INFO,200,192.93,Success: FILE_ACCESS completed normally. Response time: 192.93ms,0
+2025-01-14 21:45:50.455731,192.168.1.32,user_003,LOGOUT,INFO,201,294.25,Success: LOGOUT completed normally. Response time: 294.25ms,0
+2025-01-14 21:50:07.455731,192.168.1.14,user_003,API_CALL,INFO,200,217.3,Success: API_CALL completed normally. Response time: 217.30ms,0
+2025-01-14 22:01:10.455731,192.168.1.35,user_006,FILE_ACCESS,INFO,200,202.8,Success: FILE_ACCESS completed normally. Response time: 202.80ms,0
+2025-01-14 22:06:46.455731,192.168.1.28,user_011,FILE_ACCESS,ERROR,401,196.8,Client Error: FILE_ACCESS request failed with status 401. Response time: 196.80ms,0
+2025-01-14 22:39:39.455731,192.168.1.50,user_016,DATABASE_QUERY,INFO,200,211.31,Success: DATABASE_QUERY completed normally. Response time: 211.31ms,0
+2025-01-14 22:40:25.455731,192.168.1.46,user_012,DATABASE_QUERY,ERROR,404,120.24,Client Error: DATABASE_QUERY request failed with status 404. Response time: 120.24ms,0
+2025-01-14 22:52:16.455731,192.168.1.18,user_011,FILE_ACCESS,INFO,200,197.87,Success: FILE_ACCESS completed normally. Response time: 197.87ms,0
+2025-01-14 22:54:48.455731,192.168.1.46,user_005,LOGIN,INFO,200,192.56,Success: LOGIN completed normally. Response time: 192.56ms,0
+2025-01-14 22:55:15.455731,192.168.1.26,user_003,SYSTEM_UPDATE,INFO,200,122.73,Success: SYSTEM_UPDATE completed normally. Response time: 122.73ms,0
+2025-01-14 23:15:03.455731,192.168.1.14,user_013,LOGOUT,INFO,200,161.49,Success: LOGOUT completed normally. Response time: 161.49ms,0
+2025-01-14 23:59:23.455731,192.168.1.5,user_003,DATABASE_QUERY,INFO,200,273.53,Success: DATABASE_QUERY completed normally. Response time: 273.53ms,0
+2025-01-15 00:08:29.455731,192.168.1.32,user_019,SYSTEM_UPDATE,INFO,200,172.58,Success: SYSTEM_UPDATE completed normally. Response time: 172.58ms,0
+2025-01-15 00:28:29.455731,192.168.1.29,user_002,FILE_ACCESS,INFO,200,332.98,Success: FILE_ACCESS completed normally. Response time: 332.98ms,0
+2025-01-15 00:32:06.455731,192.168.1.33,user_010,LOGIN,ERROR,404,271.88,Client Error: LOGIN request failed with status 404. Response time: 271.88ms,0
+2025-01-15 00:33:29.455731,192.168.1.10,user_003,LOGIN,ERROR,400,221.21,Client Error: LOGIN request failed with status 400. Response time: 221.21ms,0
+2025-01-15 00:42:55.455731,192.168.1.2,user_017,DATABASE_QUERY,INFO,200,195.63,Success: DATABASE_QUERY completed normally. Response time: 195.63ms,0
+2025-01-15 00:45:37.455731,192.168.1.15,user_003,FILE_ACCESS,INFO,200,148.25,Success: FILE_ACCESS completed normally. Response time: 148.25ms,0
+2025-01-15 01:05:22.455731,192.168.1.2,user_015,SYSTEM_UPDATE,INFO,200,223.67,Success: SYSTEM_UPDATE completed normally. Response time: 223.67ms,0
+2025-01-15 01:20:02.455731,192.168.1.49,user_011,LOGOUT,INFO,200,110.7,Success: LOGOUT completed normally. Response time: 110.70ms,0
+2025-01-15 01:33:29.455731,192.168.1.45,user_010,LOGIN,INFO,200,178.68,Success: LOGIN completed normally. Response time: 178.68ms,0
+2025-01-15 01:37:07.455731,192.168.1.23,user_020,SYSTEM_UPDATE,INFO,200,182.77,Success: SYSTEM_UPDATE completed normally. Response time: 182.77ms,0
+2025-01-15 02:02:23.455731,192.168.1.41,user_004,API_CALL,INFO,200,162.88,Success: API_CALL completed normally. Response time: 162.88ms,0
+2025-01-15 02:04:50.455731,192.168.1.6,user_019,LOGOUT,INFO,200,163.99,Success: LOGOUT completed normally. Response time: 163.99ms,0
+2025-01-15 02:09:37.455731,192.168.1.46,user_007,FILE_ACCESS,INFO,200,208.64,Success: FILE_ACCESS completed normally. Response time: 208.64ms,0
+2025-01-15 02:24:57.455731,192.168.1.33,user_018,FILE_ACCESS,INFO,200,88.94,Success: FILE_ACCESS completed normally. Response time: 88.94ms,0
+2025-01-15 02:33:19.455731,192.168.1.24,user_007,DATABASE_QUERY,INFO,200,334.57,Success: DATABASE_QUERY completed normally. Response time: 334.57ms,0
+2025-01-15 02:36:54.455731,192.168.1.43,user_009,LOGIN,ERROR,400,258.49,Client Error: LOGIN request failed with status 400. Response time: 258.49ms,0
+2025-01-15 02:53:17.455731,192.168.1.32,user_009,LOGOUT,INFO,200,129.95,Success: LOGOUT completed normally. Response time: 129.95ms,0
+2025-01-15 03:14:38.455731,192.168.1.9,user_003,FILE_ACCESS,INFO,200,215.64,Success: FILE_ACCESS completed normally. Response time: 215.64ms,0
+2025-01-15 03:18:33.455731,192.168.1.38,user_012,DATABASE_QUERY,INFO,200,175.34,Success: DATABASE_QUERY completed normally. Response time: 175.34ms,0
+2025-01-15 03:20:43.455731,192.168.1.35,user_004,API_CALL,INFO,200,171.53,Success: API_CALL completed normally. Response time: 171.53ms,0
+2025-01-15 03:25:26.455731,192.168.1.31,user_019,SYSTEM_UPDATE,INFO,200,236.35,Success: SYSTEM_UPDATE completed normally. Response time: 236.35ms,0
+2025-01-15 03:25:46.455731,192.168.1.37,user_005,LOGIN,INFO,200,191.84,Success: LOGIN completed normally. Response time: 191.84ms,0
+2025-01-15 03:29:52.455731,192.168.1.39,user_017,SYSTEM_UPDATE,ERROR,401,188.44,Client Error: SYSTEM_UPDATE request failed with status 401. Response time: 188.44ms,0
+2025-01-15 03:32:49.455731,192.168.1.6,user_018,DATABASE_QUERY,INFO,200,106.81,Success: DATABASE_QUERY completed normally. Response time: 106.81ms,0
+2025-01-15 03:40:32.455731,192.168.1.10,user_012,API_CALL,INFO,200,162.61,Success: API_CALL completed normally. Response time: 162.61ms,0
+2025-01-15 03:46:44.455731,192.168.1.19,user_001,LOGIN,INFO,200,151.78,Success: LOGIN completed normally. Response time: 151.78ms,0
+2025-01-15 03:59:26.455731,192.168.1.31,user_012,LOGIN,INFO,200,169.88,Success: LOGIN completed normally. Response time: 169.88ms,0
+2025-01-15 04:11:02.455731,192.168.1.36,user_002,LOGOUT,INFO,201,260.12,Success: LOGOUT completed normally. Response time: 260.12ms,0
+2025-01-15 04:21:09.455731,192.168.1.31,user_014,LOGIN,CRITICAL,500,218.11,Server Error: LOGIN failed with status 500. Response time: 218.11ms,1
+2025-01-15 04:21:27.455731,192.168.1.13,user_004,FILE_ACCESS,INFO,200,155.82,Success: FILE_ACCESS completed normally. Response time: 155.82ms,0
+2025-01-15 04:25:40.455731,192.168.1.4,user_010,DATABASE_QUERY,INFO,200,261.67,Success: DATABASE_QUERY completed normally. Response time: 261.67ms,0
+2025-01-15 04:43:25.455731,192.168.1.34,user_005,LOGIN,INFO,200,239.56,Success: LOGIN completed normally. Response time: 239.56ms,0
+2025-01-15 04:54:22.455731,192.168.1.14,user_007,API_CALL,INFO,200,183.4,Success: API_CALL completed normally. Response time: 183.40ms,0
+2025-01-15 04:55:12.455731,192.168.1.46,user_014,FILE_ACCESS,INFO,200,251.55,Success: FILE_ACCESS completed normally. Response time: 251.55ms,0
+2025-01-15 04:56:13.455731,192.168.1.11,user_010,DATABASE_QUERY,INFO,200,148.8,Success: DATABASE_QUERY completed normally. Response time: 148.80ms,0
+2025-01-15 05:00:14.455731,192.168.1.26,user_004,LOGOUT,INFO,200,276.85,Success: LOGOUT completed normally. Response time: 276.85ms,0
+2025-01-15 05:05:08.455731,192.168.1.22,user_012,API_CALL,INFO,201,139.49,Success: API_CALL completed normally. Response time: 139.49ms,0
+2025-01-15 05:16:32.455731,192.168.1.7,user_020,API_CALL,CRITICAL,500,327.52,Server Error: API_CALL failed with status 500. Response time: 327.52ms,1
+2025-01-15 05:19:21.455731,192.168.1.2,user_009,LOGOUT,INFO,200,162.63,Success: LOGOUT completed normally. Response time: 162.63ms,0
+2025-01-15 05:40:17.455731,192.168.1.21,user_015,SYSTEM_UPDATE,INFO,200,154.45,Success: SYSTEM_UPDATE completed normally. Response time: 154.45ms,0
+2025-01-15 05:42:47.455731,192.168.1.47,user_007,FILE_ACCESS,ERROR,403,219.06,Client Error: FILE_ACCESS request failed with status 403. Response time: 219.06ms,0
+2025-01-15 05:49:17.455731,192.168.1.9,user_014,FILE_ACCESS,INFO,200,133.95,Success: FILE_ACCESS completed normally. Response time: 133.95ms,0
+2025-01-15 05:51:57.455731,192.168.1.9,user_002,FILE_ACCESS,INFO,200,199.33,Success: FILE_ACCESS completed normally. Response time: 199.33ms,0
+2025-01-15 06:02:59.455731,192.168.1.38,user_008,DATABASE_QUERY,INFO,200,137.38,Success: DATABASE_QUERY completed normally. Response time: 137.38ms,0
+2025-01-15 06:18:17.455731,192.168.1.7,user_008,API_CALL,INFO,200,193.81,Success: API_CALL completed normally. Response time: 193.81ms,0
+2025-01-15 06:28:38.455731,192.168.1.43,user_004,DATABASE_QUERY,INFO,200,212.64,Success: DATABASE_QUERY completed normally. Response time: 212.64ms,0
+2025-01-15 06:31:41.455731,192.168.1.48,user_014,DATABASE_QUERY,CRITICAL,500,195.43,Server Error: DATABASE_QUERY failed with status 500. Response time: 195.43ms,1
+2025-01-15 06:34:46.455731,192.168.1.49,user_016,SYSTEM_UPDATE,ERROR,401,185.94,Client Error: SYSTEM_UPDATE request failed with status 401. Response time: 185.94ms,0
+2025-01-15 06:44:13.455731,192.168.1.4,user_002,DATABASE_QUERY,INFO,200,187.31,Success: DATABASE_QUERY completed normally. Response time: 187.31ms,0
+2025-01-15 06:46:56.455731,192.168.1.30,user_015,DATABASE_QUERY,INFO,200,79.97,Success: DATABASE_QUERY completed normally. Response time: 79.97ms,0
+2025-01-15 07:07:37.455731,192.168.1.47,user_019,FILE_ACCESS,INFO,200,232.23,Success: FILE_ACCESS completed normally. Response time: 232.23ms,0
+2025-01-15 07:18:24.455731,192.168.1.48,user_010,FILE_ACCESS,INFO,201,137.76,Success: FILE_ACCESS completed normally. Response time: 137.76ms,0
+2025-01-15 07:26:31.455731,192.168.1.13,user_001,FILE_ACCESS,INFO,200,172.06,Success: FILE_ACCESS completed normally. Response time: 172.06ms,0
+2025-01-15 07:38:53.455731,192.168.1.35,user_004,LOGIN,INFO,200,269.17,Success: LOGIN completed normally. Response time: 269.17ms,0
+2025-01-15 07:50:53.455731,192.168.1.48,user_003,SYSTEM_UPDATE,INFO,200,231.77,Success: SYSTEM_UPDATE completed normally. Response time: 231.77ms,0
+2025-01-15 07:59:03.455731,192.168.1.49,user_003,DATABASE_QUERY,ERROR,400,122.62,Client Error: DATABASE_QUERY request failed with status 400. Response time: 122.62ms,0
+2025-01-15 07:59:09.455731,192.168.1.7,user_012,LOGOUT,INFO,200,185.6,Success: LOGOUT completed normally. Response time: 185.60ms,0
+2025-01-15 07:59:28.455731,192.168.1.21,user_012,DATABASE_QUERY,CRITICAL,503,242.59,Server Error: DATABASE_QUERY failed with status 503. Response time: 242.59ms,1
+2025-01-15 08:42:40.455731,192.168.1.46,user_004,LOGIN,INFO,200,183.66,Success: LOGIN completed normally. Response time: 183.66ms,0
+2025-01-15 09:20:06.455731,192.168.1.22,user_008,API_CALL,INFO,200,240.21,Success: API_CALL completed normally. Response time: 240.21ms,0
+2025-01-15 09:27:06.455731,192.168.1.20,user_009,API_CALL,INFO,200,171.16,Success: API_CALL completed normally. Response time: 171.16ms,0
+2025-01-15 10:00:20.455731,192.168.1.28,user_003,API_CALL,INFO,201,256.53,Success: API_CALL completed normally. Response time: 256.53ms,0
+2025-01-15 10:19:16.455731,192.168.1.29,user_015,LOGIN,INFO,201,229.24,Success: LOGIN completed normally. Response time: 229.24ms,0
+2025-01-15 10:21:16.455731,192.168.1.47,user_009,LOGOUT,ERROR,400,142.05,Client Error: LOGOUT request failed with status 400. Response time: 142.05ms,0
+2025-01-15 10:21:56.455731,192.168.1.15,user_012,API_CALL,INFO,200,273.17,Success: API_CALL completed normally. Response time: 273.17ms,0
+2025-01-15 10:34:40.455731,192.168.1.9,user_013,FILE_ACCESS,INFO,200,186.03,Success: FILE_ACCESS completed normally. Response time: 186.03ms,0
+2025-01-15 10:47:51.455731,192.168.1.4,user_017,FILE_ACCESS,INFO,200,258.91,Success: FILE_ACCESS completed normally. Response time: 258.91ms,0
+2025-01-15 10:53:33.455731,192.168.1.49,user_017,SYSTEM_UPDATE,INFO,200,258.02,Success: SYSTEM_UPDATE completed normally. Response time: 258.02ms,0
+2025-01-15 11:02:05.455731,192.168.1.26,user_001,DATABASE_QUERY,INFO,200,245.54,Success: DATABASE_QUERY completed normally. Response time: 245.54ms,0
+2025-01-15 11:09:12.455731,192.168.1.20,user_007,LOGIN,ERROR,400,247.75,Client Error: LOGIN request failed with status 400. Response time: 247.75ms,0
+2025-01-15 11:24:13.455731,192.168.1.15,user_006,LOGOUT,INFO,200,120.12,Success: LOGOUT completed normally. Response time: 120.12ms,0
+2025-01-15 11:49:36.455731,192.168.1.4,user_003,API_CALL,INFO,200,231.31,Success: API_CALL completed normally. Response time: 231.31ms,0
+2025-01-15 12:01:35.455731,192.168.1.33,user_001,API_CALL,INFO,200,211.56,Success: API_CALL completed normally. Response time: 211.56ms,0
+2025-01-15 12:06:27.455731,192.168.1.1,user_008,DATABASE_QUERY,INFO,200,177.88,Success: DATABASE_QUERY completed normally. Response time: 177.88ms,0
+2025-01-15 12:06:56.455731,192.168.1.41,user_001,LOGOUT,INFO,201,104.67,Success: LOGOUT completed normally. Response time: 104.67ms,0
+2025-01-15 12:07:47.455731,192.168.1.23,user_007,LOGOUT,INFO,200,194.91,Success: LOGOUT completed normally. Response time: 194.91ms,0
+2025-01-15 12:09:33.455731,192.168.1.16,user_019,FILE_ACCESS,INFO,200,256.12,Success: FILE_ACCESS completed normally. Response time: 256.12ms,0
+2025-01-15 12:12:45.455731,192.168.1.37,user_008,DATABASE_QUERY,INFO,201,242.45,Success: DATABASE_QUERY completed normally. Response time: 242.45ms,0
+2025-01-15 12:13:52.455731,192.168.1.3,user_005,FILE_ACCESS,INFO,201,181.7,Success: FILE_ACCESS completed normally. Response time: 181.70ms,0
+2025-01-15 12:14:33.455731,192.168.1.7,user_020,SYSTEM_UPDATE,INFO,201,257.39,Success: SYSTEM_UPDATE completed normally. Response time: 257.39ms,0
+2025-01-15 12:16:45.455731,192.168.1.33,user_001,LOGIN,INFO,200,234.45,Success: LOGIN completed normally. Response time: 234.45ms,0
+2025-01-15 12:26:03.455731,192.168.1.8,user_012,SYSTEM_UPDATE,INFO,200,241.36,Success: SYSTEM_UPDATE completed normally. Response time: 241.36ms,0
+2025-01-15 12:35:02.455731,192.168.1.14,user_018,FILE_ACCESS,INFO,200,313.73,Success: FILE_ACCESS completed normally. Response time: 313.73ms,0
+2025-01-15 12:46:14.455731,192.168.1.48,user_018,FILE_ACCESS,INFO,200,184.83,Success: FILE_ACCESS completed normally. Response time: 184.83ms,0
+2025-01-15 12:47:54.455731,192.168.1.38,user_006,FILE_ACCESS,INFO,200,66.86,Success: FILE_ACCESS completed normally. Response time: 66.86ms,0
+2025-01-15 12:49:46.455731,192.168.1.15,user_010,FILE_ACCESS,INFO,200,158.27,Success: FILE_ACCESS completed normally. Response time: 158.27ms,0
+2025-01-15 12:51:20.455731,192.168.1.37,user_020,LOGOUT,INFO,200,158.32,Success: LOGOUT completed normally. Response time: 158.32ms,0
+2025-01-15 13:11:31.455731,192.168.1.18,user_019,DATABASE_QUERY,ERROR,400,175.27,Client Error: DATABASE_QUERY request failed with status 400. Response time: 175.27ms,0
+2025-01-15 13:15:13.455731,192.168.1.37,user_001,LOGOUT,INFO,201,173.97,Success: LOGOUT completed normally. Response time: 173.97ms,0
+2025-01-15 13:16:26.455731,192.168.1.27,user_019,LOGIN,INFO,200,190.79,Success: LOGIN completed normally. Response time: 190.79ms,0
+2025-01-15 13:22:18.455731,192.168.1.11,user_017,API_CALL,INFO,200,219.4,Success: API_CALL completed normally. Response time: 219.40ms,0
+2025-01-15 13:22:49.455731,192.168.1.29,user_007,FILE_ACCESS,INFO,200,149.77,Success: FILE_ACCESS completed normally. Response time: 149.77ms,0
+2025-01-15 13:32:16.455731,192.168.1.21,user_003,DATABASE_QUERY,INFO,200,171.08,Success: DATABASE_QUERY completed normally. Response time: 171.08ms,0
+2025-01-15 13:33:40.455731,192.168.1.8,user_007,DATABASE_QUERY,INFO,200,123.12,Success: DATABASE_QUERY completed normally. Response time: 123.12ms,0
+2025-01-15 13:36:53.455731,192.168.1.39,user_004,LOGOUT,INFO,200,284.4,Success: LOGOUT completed normally. Response time: 284.40ms,0
+2025-01-15 13:38:23.455731,192.168.1.36,user_005,SYSTEM_UPDATE,INFO,200,220.68,Success: SYSTEM_UPDATE completed normally. Response time: 220.68ms,0
+2025-01-15 13:49:05.455731,192.168.1.48,user_019,API_CALL,INFO,200,272.72,Success: API_CALL completed normally. Response time: 272.72ms,0
+2025-01-15 13:51:40.455731,192.168.1.32,user_016,DATABASE_QUERY,INFO,200,202.32,Success: DATABASE_QUERY completed normally. Response time: 202.32ms,0
+2025-01-15 14:12:47.455731,192.168.1.32,user_003,LOGIN,INFO,200,191.88,Success: LOGIN completed normally. Response time: 191.88ms,0
+2025-01-15 14:18:18.455731,192.168.1.14,user_020,LOGOUT,INFO,200,194.13,Success: LOGOUT completed normally. Response time: 194.13ms,0
+2025-01-15 14:18:39.455731,192.168.1.8,user_010,SYSTEM_UPDATE,INFO,200,265.23,Success: SYSTEM_UPDATE completed normally. Response time: 265.23ms,0
+2025-01-15 14:27:32.455731,192.168.1.24,user_007,SYSTEM_UPDATE,INFO,200,194.48,Success: SYSTEM_UPDATE completed normally. Response time: 194.48ms,0
+2025-01-15 14:29:56.455731,192.168.1.43,user_001,SYSTEM_UPDATE,INFO,200,186.07,Success: SYSTEM_UPDATE completed normally. Response time: 186.07ms,0
+2025-01-15 14:31:41.455731,192.168.1.22,user_020,LOGIN,INFO,200,148.8,Success: LOGIN completed normally. Response time: 148.80ms,0
+2025-01-15 14:32:09.455731,192.168.1.5,user_004,FILE_ACCESS,INFO,200,203.02,Success: FILE_ACCESS completed normally. Response time: 203.02ms,0
+2025-01-15 14:34:56.455731,192.168.1.19,user_015,DATABASE_QUERY,INFO,200,199.31,Success: DATABASE_QUERY completed normally. Response time: 199.31ms,0
+2025-01-15 14:36:43.455731,192.168.1.41,user_014,FILE_ACCESS,INFO,200,61.7,Success: FILE_ACCESS completed normally. Response time: 61.70ms,0
+2025-01-15 14:37:30.455731,192.168.1.47,user_020,DATABASE_QUERY,INFO,200,245.53,Success: DATABASE_QUERY completed normally. Response time: 245.53ms,0
+2025-01-15 14:55:48.455731,192.168.1.18,user_009,SYSTEM_UPDATE,INFO,200,245.07,Success: SYSTEM_UPDATE completed normally. Response time: 245.07ms,0
+2025-01-15 15:16:14.455731,192.168.1.35,user_008,LOGOUT,INFO,200,261.3,Success: LOGOUT completed normally. Response time: 261.30ms,0
+2025-01-15 15:24:03.455731,192.168.1.29,user_019,SYSTEM_UPDATE,ERROR,400,200.3,Client Error: SYSTEM_UPDATE request failed with status 400. Response time: 200.30ms,0
+2025-01-15 15:24:41.455731,192.168.1.41,user_019,DATABASE_QUERY,ERROR,403,189.22,Client Error: DATABASE_QUERY request failed with status 403. Response time: 189.22ms,0
+2025-01-15 15:36:13.455731,192.168.1.14,user_003,API_CALL,INFO,200,180.27,Success: API_CALL completed normally. Response time: 180.27ms,0
+2025-01-15 15:40:22.455731,192.168.1.22,user_020,FILE_ACCESS,INFO,200,222.02,Success: FILE_ACCESS completed normally. Response time: 222.02ms,0
+2025-01-15 16:28:12.455731,192.168.1.4,user_010,API_CALL,INFO,200,328.08,Success: API_CALL completed normally. Response time: 328.08ms,0
+2025-01-15 16:33:20.455731,192.168.1.16,user_013,DATABASE_QUERY,INFO,200,184.97,Success: DATABASE_QUERY completed normally. Response time: 184.97ms,0
+2025-01-15 17:12:50.455731,192.168.1.16,user_002,FILE_ACCESS,INFO,200,130.99,Success: FILE_ACCESS completed normally. Response time: 130.99ms,0
+2025-01-15 17:18:08.455731,192.168.1.14,user_011,FILE_ACCESS,ERROR,400,255.35,Client Error: FILE_ACCESS request failed with status 400. Response time: 255.35ms,0
+2025-01-15 17:19:44.455731,192.168.1.10,user_004,SYSTEM_UPDATE,INFO,200,183.28,Success: SYSTEM_UPDATE completed normally. Response time: 183.28ms,0
+2025-01-15 17:36:25.455731,192.168.1.30,user_020,API_CALL,ERROR,401,221.3,Client Error: API_CALL request failed with status 401. Response time: 221.30ms,0
+2025-01-15 17:41:34.455731,192.168.1.12,user_016,API_CALL,INFO,200,116.15,Success: API_CALL completed normally. Response time: 116.15ms,0
+2025-01-15 17:58:04.455731,192.168.1.38,user_005,FILE_ACCESS,CRITICAL,500,150.44,Server Error: FILE_ACCESS failed with status 500. Response time: 150.44ms,1
+2025-01-15 18:07:26.455731,192.168.1.13,user_008,LOGIN,INFO,200,217.01,Success: LOGIN completed normally. Response time: 217.01ms,0
+2025-01-15 18:42:02.455731,192.168.1.28,user_012,SYSTEM_UPDATE,INFO,200,180.04,Success: SYSTEM_UPDATE completed normally. Response time: 180.04ms,0
+2025-01-15 18:47:57.455731,192.168.1.34,user_014,API_CALL,INFO,201,199.09,Success: API_CALL completed normally. Response time: 199.09ms,0
+2025-01-15 18:50:47.455731,192.168.1.4,user_016,DATABASE_QUERY,INFO,200,229.24,Success: DATABASE_QUERY completed normally. Response time: 229.24ms,0
+2025-01-15 18:52:19.455731,192.168.1.38,user_009,LOGOUT,INFO,200,144.84,Success: LOGOUT completed normally. Response time: 144.84ms,0
+2025-01-15 19:31:52.455731,192.168.1.43,user_002,FILE_ACCESS,INFO,201,233.46,Success: FILE_ACCESS completed normally. Response time: 233.46ms,0
+2025-01-15 19:36:20.455731,192.168.1.27,user_012,FILE_ACCESS,INFO,200,161.39,Success: FILE_ACCESS completed normally. Response time: 161.39ms,0
+2025-01-15 19:45:49.455731,192.168.1.4,user_005,LOGOUT,INFO,200,229.65,Success: LOGOUT completed normally. Response time: 229.65ms,0
+2025-01-15 19:48:18.455731,192.168.1.14,user_008,FILE_ACCESS,INFO,200,216.75,Success: FILE_ACCESS completed normally. Response time: 216.75ms,0
+2025-01-15 19:50:33.455731,192.168.1.15,user_001,DATABASE_QUERY,INFO,200,216.95,Success: DATABASE_QUERY completed normally. Response time: 216.95ms,0
+2025-01-15 19:51:13.455731,192.168.1.20,user_002,DATABASE_QUERY,INFO,201,170.64,Success: DATABASE_QUERY completed normally. Response time: 170.64ms,0
+2025-01-15 20:00:24.455731,192.168.1.10,user_017,API_CALL,INFO,200,186.0,Success: API_CALL completed normally. Response time: 186.00ms,0
+2025-01-15 20:16:28.455731,192.168.1.1,user_013,API_CALL,INFO,200,169.99,Success: API_CALL completed normally. Response time: 169.99ms,0
+2025-01-15 20:16:43.455731,192.168.1.46,user_002,DATABASE_QUERY,INFO,200,206.43,Success: DATABASE_QUERY completed normally. Response time: 206.43ms,0
+2025-01-15 20:20:48.455731,192.168.1.43,user_020,FILE_ACCESS,INFO,200,225.74,Success: FILE_ACCESS completed normally. Response time: 225.74ms,0
+2025-01-15 20:41:04.455731,192.168.1.28,user_008,DATABASE_QUERY,INFO,200,268.66,Success: DATABASE_QUERY completed normally. Response time: 268.66ms,0
+2025-01-15 20:51:35.455731,192.168.1.44,user_005,DATABASE_QUERY,INFO,200,287.61,Success: DATABASE_QUERY completed normally. Response time: 287.61ms,0
+2025-01-15 20:54:38.455731,192.168.1.48,user_004,API_CALL,INFO,200,260.45,Success: API_CALL completed normally. Response time: 260.45ms,0
+2025-01-15 20:55:06.455731,192.168.1.2,user_014,API_CALL,INFO,201,281.22,Success: API_CALL completed normally. Response time: 281.22ms,0
+2025-01-15 21:29:13.455731,192.168.1.12,user_015,SYSTEM_UPDATE,INFO,200,127.01,Success: SYSTEM_UPDATE completed normally. Response time: 127.01ms,0
+2025-01-15 21:56:46.455731,192.168.1.16,user_017,LOGIN,INFO,200,147.88,Success: LOGIN completed normally. Response time: 147.88ms,0
+2025-01-15 22:05:46.455731,192.168.1.49,user_017,API_CALL,INFO,200,250.76,Success: API_CALL completed normally. Response time: 250.76ms,0
+2025-01-15 22:09:36.455731,192.168.1.5,user_007,DATABASE_QUERY,INFO,200,125.62,Success: DATABASE_QUERY completed normally. Response time: 125.62ms,0
+2025-01-15 22:11:08.455731,192.168.1.38,user_016,LOGIN,INFO,200,179.68,Success: LOGIN completed normally. Response time: 179.68ms,0
+2025-01-15 22:11:36.455731,192.168.1.49,user_012,LOGOUT,INFO,200,137.33,Success: LOGOUT completed normally. Response time: 137.33ms,0
+2025-01-15 22:12:11.455731,192.168.1.41,user_019,FILE_ACCESS,INFO,201,203.36,Success: FILE_ACCESS completed normally. Response time: 203.36ms,0
+2025-01-15 22:32:32.455731,192.168.1.10,user_011,FILE_ACCESS,INFO,200,197.15,Success: FILE_ACCESS completed normally. Response time: 197.15ms,0
+2025-01-15 22:33:32.455731,192.168.1.34,user_004,FILE_ACCESS,INFO,200,147.56,Success: FILE_ACCESS completed normally. Response time: 147.56ms,0
+2025-01-15 22:40:19.455731,192.168.1.11,user_014,FILE_ACCESS,ERROR,404,210.43,Client Error: FILE_ACCESS request failed with status 404. Response time: 210.43ms,0
+2025-01-15 22:41:28.455731,192.168.1.17,user_017,LOGOUT,INFO,200,153.99,Success: LOGOUT completed normally. Response time: 153.99ms,0
+2025-01-15 23:14:54.455731,192.168.1.20,user_019,SYSTEM_UPDATE,INFO,200,240.3,Success: SYSTEM_UPDATE completed normally. Response time: 240.30ms,0
+2025-01-15 23:31:34.455731,192.168.1.30,user_001,FILE_ACCESS,ERROR,400,185.03,Client Error: FILE_ACCESS request failed with status 400. Response time: 185.03ms,0
+2025-01-15 23:37:14.455731,192.168.1.7,user_012,LOGOUT,INFO,200,276.37,Success: LOGOUT completed normally. Response time: 276.37ms,0
+2025-01-16 00:04:44.455731,192.168.1.32,user_008,API_CALL,INFO,200,179.82,Success: API_CALL completed normally. Response time: 179.82ms,0
+2025-01-16 00:13:06.455731,192.168.1.47,user_009,FILE_ACCESS,INFO,200,103.81,Success: FILE_ACCESS completed normally. Response time: 103.81ms,0
+2025-01-16 00:39:45.455731,192.168.1.8,user_020,LOGOUT,INFO,200,137.9,Success: LOGOUT completed normally. Response time: 137.90ms,0
+2025-01-16 00:45:16.455731,192.168.1.40,user_009,API_CALL,INFO,200,252.26,Success: API_CALL completed normally. Response time: 252.26ms,0
+2025-01-16 01:12:09.455731,192.168.1.27,user_005,FILE_ACCESS,ERROR,400,203.99,Client Error: FILE_ACCESS request failed with status 400. Response time: 203.99ms,0
+2025-01-16 01:14:59.455731,192.168.1.33,user_002,SYSTEM_UPDATE,INFO,200,191.98,Success: SYSTEM_UPDATE completed normally. Response time: 191.98ms,0
+2025-01-16 01:31:49.455731,192.168.1.34,user_007,API_CALL,INFO,200,175.18,Success: API_CALL completed normally. Response time: 175.18ms,0
+2025-01-16 02:04:06.455731,192.168.1.47,user_002,API_CALL,INFO,200,163.08,Success: API_CALL completed normally. Response time: 163.08ms,0
+2025-01-16 02:17:22.455731,192.168.1.24,user_018,LOGOUT,ERROR,401,252.33,Client Error: LOGOUT request failed with status 401. Response time: 252.33ms,0
+2025-01-16 02:36:19.455731,192.168.1.10,user_005,API_CALL,INFO,200,261.66,Success: API_CALL completed normally. Response time: 261.66ms,0
+2025-01-16 02:46:44.455731,192.168.1.17,user_015,LOGOUT,INFO,200,187.87,Success: LOGOUT completed normally. Response time: 187.87ms,0
+2025-01-16 02:47:45.455731,192.168.1.36,user_009,API_CALL,INFO,200,219.52,Success: API_CALL completed normally. Response time: 219.52ms,0
+2025-01-16 02:48:18.455731,192.168.1.12,user_009,DATABASE_QUERY,ERROR,400,165.56,Client Error: DATABASE_QUERY request failed with status 400. Response time: 165.56ms,0
+2025-01-16 02:57:34.455731,192.168.1.4,user_015,API_CALL,INFO,200,270.31,Success: API_CALL completed normally. Response time: 270.31ms,0
+2025-01-16 02:58:01.455731,192.168.1.12,user_011,API_CALL,INFO,200,164.91,Success: API_CALL completed normally. Response time: 164.91ms,0
+2025-01-16 03:13:30.455731,192.168.1.22,user_011,API_CALL,INFO,200,207.29,Success: API_CALL completed normally. Response time: 207.29ms,0
+2025-01-16 03:14:54.455731,192.168.1.36,user_017,DATABASE_QUERY,INFO,200,195.25,Success: DATABASE_QUERY completed normally. Response time: 195.25ms,0
+2025-01-16 03:21:56.455731,192.168.1.32,user_004,LOGOUT,INFO,200,109.32,Success: LOGOUT completed normally. Response time: 109.32ms,0
+2025-01-16 03:25:24.455731,192.168.1.16,user_017,API_CALL,INFO,200,275.99,Success: API_CALL completed normally. Response time: 275.99ms,0
+2025-01-16 03:32:45.455731,192.168.1.11,user_006,SYSTEM_UPDATE,INFO,201,174.96,Success: SYSTEM_UPDATE completed normally. Response time: 174.96ms,0
+2025-01-16 03:58:08.455731,192.168.1.49,user_006,FILE_ACCESS,INFO,200,148.16,Success: FILE_ACCESS completed normally. Response time: 148.16ms,0
+2025-01-16 04:18:39.455731,192.168.1.34,user_012,SYSTEM_UPDATE,ERROR,401,275.39,Client Error: SYSTEM_UPDATE request failed with status 401. Response time: 275.39ms,0
+2025-01-16 04:22:43.455731,192.168.1.25,user_002,LOGOUT,INFO,200,210.35,Success: LOGOUT completed normally. Response time: 210.35ms,0
+2025-01-16 04:27:50.455731,192.168.1.49,user_008,SYSTEM_UPDATE,INFO,201,108.22,Success: SYSTEM_UPDATE completed normally. Response time: 108.22ms,0
+2025-01-16 04:37:42.455731,192.168.1.40,user_010,LOGOUT,INFO,200,278.26,Success: LOGOUT completed normally. Response time: 278.26ms,0
+2025-01-16 05:15:50.455731,192.168.1.49,user_018,FILE_ACCESS,INFO,200,270.02,Success: FILE_ACCESS completed normally. Response time: 270.02ms,0
+2025-01-16 05:23:32.455731,192.168.1.30,user_014,SYSTEM_UPDATE,INFO,200,245.35,Success: SYSTEM_UPDATE completed normally. Response time: 245.35ms,0
+2025-01-16 05:36:58.455731,192.168.1.22,user_009,FILE_ACCESS,INFO,200,213.48,Success: FILE_ACCESS completed normally. Response time: 213.48ms,0
+2025-01-16 05:38:05.455731,192.168.1.22,user_011,SYSTEM_UPDATE,INFO,200,234.51,Success: SYSTEM_UPDATE completed normally. Response time: 234.51ms,0
+2025-01-16 05:41:51.455731,192.168.1.31,user_003,FILE_ACCESS,INFO,200,195.67,Success: FILE_ACCESS completed normally. Response time: 195.67ms,0
+2025-01-16 05:49:35.455731,192.168.1.31,user_016,LOGOUT,INFO,200,167.18,Success: LOGOUT completed normally. Response time: 167.18ms,0
+2025-01-16 05:53:23.455731,192.168.1.3,user_006,LOGIN,CRITICAL,500,244.57,Server Error: LOGIN failed with status 500. Response time: 244.57ms,1
+2025-01-16 06:20:21.455731,192.168.1.4,user_008,FILE_ACCESS,INFO,200,172.5,Success: FILE_ACCESS completed normally. Response time: 172.50ms,0
+2025-01-16 06:22:25.455731,192.168.1.48,user_009,LOGOUT,INFO,200,212.99,Success: LOGOUT completed normally. Response time: 212.99ms,0
+2025-01-16 06:32:45.455731,192.168.1.4,user_002,DATABASE_QUERY,INFO,200,263.74,Success: DATABASE_QUERY completed normally. Response time: 263.74ms,0
+2025-01-16 06:33:11.455731,192.168.1.41,user_009,LOGIN,INFO,200,175.6,Success: LOGIN completed normally. Response time: 175.60ms,0
+2025-01-16 06:33:45.455731,192.168.1.38,user_020,API_CALL,INFO,200,178.09,Success: API_CALL completed normally. Response time: 178.09ms,0
+2025-01-16 06:40:48.455731,192.168.1.15,user_005,API_CALL,INFO,200,147.6,Success: API_CALL completed normally. Response time: 147.60ms,0
+2025-01-16 06:49:34.455731,192.168.1.23,user_007,FILE_ACCESS,ERROR,400,159.25,Client Error: FILE_ACCESS request failed with status 400. Response time: 159.25ms,0
+2025-01-16 06:55:04.455731,192.168.1.27,user_017,LOGOUT,INFO,200,268.11,Success: LOGOUT completed normally. Response time: 268.11ms,0
+2025-01-16 06:57:02.455731,192.168.1.33,user_004,LOGOUT,INFO,200,141.09,Success: LOGOUT completed normally. Response time: 141.09ms,0
+2025-01-16 07:07:15.455731,192.168.1.8,user_012,DATABASE_QUERY,INFO,200,253.17,Success: DATABASE_QUERY completed normally. Response time: 253.17ms,0
+2025-01-16 07:21:23.455731,192.168.1.50,user_001,LOGOUT,INFO,200,250.38,Success: LOGOUT completed normally. Response time: 250.38ms,0
+2025-01-16 07:26:45.455731,192.168.1.3,user_019,API_CALL,ERROR,400,143.28,Client Error: API_CALL request failed with status 400. Response time: 143.28ms,0
+2025-01-16 07:34:39.455731,192.168.1.26,user_011,LOGIN,INFO,201,260.59,Success: LOGIN completed normally. Response time: 260.59ms,0
+2025-01-16 07:38:29.455731,192.168.1.15,user_002,API_CALL,INFO,200,191.16,Success: API_CALL completed normally. Response time: 191.16ms,0
+2025-01-16 07:39:06.455731,192.168.1.33,user_018,DATABASE_QUERY,INFO,201,197.12,Success: DATABASE_QUERY completed normally. Response time: 197.12ms,0
+2025-01-16 07:45:38.455731,192.168.1.48,user_018,LOGOUT,INFO,200,130.0,Success: LOGOUT completed normally. Response time: 130.00ms,0
+2025-01-16 08:00:55.455731,192.168.1.43,user_019,SYSTEM_UPDATE,INFO,200,179.75,Success: SYSTEM_UPDATE completed normally. Response time: 179.75ms,0
+2025-01-16 08:09:36.455731,192.168.1.25,user_008,FILE_ACCESS,INFO,200,167.57,Success: FILE_ACCESS completed normally. Response time: 167.57ms,0
+2025-01-16 08:15:27.455731,192.168.1.5,user_003,API_CALL,INFO,200,222.65,Success: API_CALL completed normally. Response time: 222.65ms,0
+2025-01-16 08:18:41.455731,192.168.1.19,user_010,DATABASE_QUERY,INFO,200,186.73,Success: DATABASE_QUERY completed normally. Response time: 186.73ms,0
+2025-01-16 08:21:07.455731,192.168.1.1,user_006,FILE_ACCESS,INFO,200,210.9,Success: FILE_ACCESS completed normally. Response time: 210.90ms,0
+2025-01-16 08:26:37.455731,192.168.1.31,user_006,FILE_ACCESS,INFO,200,226.11,Success: FILE_ACCESS completed normally. Response time: 226.11ms,0
+2025-01-16 08:29:16.455731,192.168.1.35,user_014,LOGIN,INFO,201,138.35,Success: LOGIN completed normally. Response time: 138.35ms,0
+2025-01-16 08:29:24.455731,192.168.1.38,user_007,SYSTEM_UPDATE,INFO,201,177.48,Success: SYSTEM_UPDATE completed normally. Response time: 177.48ms,0
+2025-01-16 08:30:32.455731,192.168.1.50,user_017,API_CALL,INFO,200,232.43,Success: API_CALL completed normally. Response time: 232.43ms,0
+2025-01-16 08:41:41.455731,192.168.1.24,user_020,LOGOUT,INFO,200,191.63,Success: LOGOUT completed normally. Response time: 191.63ms,0
+2025-01-16 08:50:27.455731,192.168.1.8,user_005,SYSTEM_UPDATE,INFO,200,183.16,Success: SYSTEM_UPDATE completed normally. Response time: 183.16ms,0
+2025-01-16 08:51:48.455731,192.168.1.49,user_014,API_CALL,INFO,200,107.18,Success: API_CALL completed normally. Response time: 107.18ms,0
+2025-01-16 09:09:59.455731,192.168.1.9,user_011,SYSTEM_UPDATE,INFO,200,146.95,Success: SYSTEM_UPDATE completed normally. Response time: 146.95ms,0
+2025-01-16 09:15:19.455731,192.168.1.41,user_017,DATABASE_QUERY,CRITICAL,500,299.78,Server Error: DATABASE_QUERY failed with status 500. Response time: 299.78ms,1
+2025-01-16 09:17:07.455731,192.168.1.19,user_009,SYSTEM_UPDATE,INFO,200,206.95,Success: SYSTEM_UPDATE completed normally. Response time: 206.95ms,0
+2025-01-16 09:23:45.455731,192.168.1.50,user_013,LOGIN,INFO,200,217.37,Success: LOGIN completed normally. Response time: 217.37ms,0
+2025-01-16 09:29:12.455731,192.168.1.26,user_003,SYSTEM_UPDATE,ERROR,400,161.18,Client Error: SYSTEM_UPDATE request failed with status 400. Response time: 161.18ms,0
+2025-01-16 09:59:39.455731,192.168.1.24,user_011,DATABASE_QUERY,INFO,200,179.75,Success: DATABASE_QUERY completed normally. Response time: 179.75ms,0
+2025-01-16 10:01:36.455731,192.168.1.20,user_008,LOGOUT,INFO,200,158.22,Success: LOGOUT completed normally. Response time: 158.22ms,0
+2025-01-16 10:15:49.455731,192.168.1.36,user_003,API_CALL,INFO,200,196.03,Success: API_CALL completed normally. Response time: 196.03ms,0
+2025-01-16 10:28:35.455731,192.168.1.5,user_012,LOGIN,INFO,201,215.22,Success: LOGIN completed normally. Response time: 215.22ms,0
+2025-01-16 10:31:34.455731,192.168.1.48,user_015,LOGIN,INFO,200,214.41,Success: LOGIN completed normally. Response time: 214.41ms,0
+2025-01-16 10:33:03.455731,192.168.1.21,user_015,LOGIN,INFO,200,171.38,Success: LOGIN completed normally. Response time: 171.38ms,0
+2025-01-16 10:48:42.455731,192.168.1.41,user_003,DATABASE_QUERY,INFO,200,151.22,Success: DATABASE_QUERY completed normally. Response time: 151.22ms,0
+2025-01-16 10:53:41.455731,192.168.1.15,user_014,DATABASE_QUERY,INFO,200,125.1,Success: DATABASE_QUERY completed normally. Response time: 125.10ms,0
+2025-01-16 10:55:05.455731,192.168.1.15,user_017,SYSTEM_UPDATE,INFO,200,199.6,Success: SYSTEM_UPDATE completed normally. Response time: 199.60ms,0
+2025-01-16 10:55:07.455731,192.168.1.3,user_005,FILE_ACCESS,INFO,200,180.34,Success: FILE_ACCESS completed normally. Response time: 180.34ms,0
+2025-01-16 10:57:40.455731,192.168.1.10,user_018,LOGOUT,INFO,200,273.48,Success: LOGOUT completed normally. Response time: 273.48ms,0
+2025-01-16 11:00:35.455731,192.168.1.17,user_017,LOGOUT,INFO,200,168.98,Success: LOGOUT completed normally. Response time: 168.98ms,0
+2025-01-16 11:10:02.455731,192.168.1.18,user_018,SYSTEM_UPDATE,INFO,200,311.08,Success: SYSTEM_UPDATE completed normally. Response time: 311.08ms,0
+2025-01-16 11:10:59.455731,192.168.1.38,user_012,LOGIN,INFO,200,179.44,Success: LOGIN completed normally. Response time: 179.44ms,0
+2025-01-16 11:19:20.455731,192.168.1.6,user_013,LOGIN,INFO,200,182.48,Success: LOGIN completed normally. Response time: 182.48ms,0
+2025-01-16 11:24:52.455731,192.168.1.40,user_020,SYSTEM_UPDATE,INFO,200,224.54,Success: SYSTEM_UPDATE completed normally. Response time: 224.54ms,0
+2025-01-16 11:35:26.455731,192.168.1.50,user_005,DATABASE_QUERY,INFO,200,263.21,Success: DATABASE_QUERY completed normally. Response time: 263.21ms,0
+2025-01-16 11:38:07.455731,192.168.1.29,user_010,LOGIN,INFO,200,227.34,Success: LOGIN completed normally. Response time: 227.34ms,0
+2025-01-16 11:42:53.455731,192.168.1.17,user_006,FILE_ACCESS,INFO,200,212.06,Success: FILE_ACCESS completed normally. Response time: 212.06ms,0
+2025-01-16 11:48:17.455731,192.168.1.46,user_005,FILE_ACCESS,INFO,200,147.46,Success: FILE_ACCESS completed normally. Response time: 147.46ms,0
+2025-01-16 12:15:14.455731,192.168.1.35,user_018,FILE_ACCESS,INFO,200,254.82,Success: FILE_ACCESS completed normally. Response time: 254.82ms,0
+2025-01-16 12:22:01.455731,192.168.1.47,user_017,LOGOUT,CRITICAL,503,272.02,Server Error: LOGOUT failed with status 503. Response time: 272.02ms,1
+2025-01-16 12:26:11.455731,192.168.1.39,user_019,FILE_ACCESS,INFO,200,174.29,Success: FILE_ACCESS completed normally. Response time: 174.29ms,0
+2025-01-16 12:26:35.455731,192.168.1.9,user_017,LOGOUT,INFO,200,210.81,Success: LOGOUT completed normally. Response time: 210.81ms,0
+2025-01-16 12:40:02.455731,192.168.1.49,user_009,DATABASE_QUERY,INFO,200,133.69,Success: DATABASE_QUERY completed normally. Response time: 133.69ms,0
+2025-01-16 12:40:59.455731,192.168.1.32,user_019,DATABASE_QUERY,INFO,200,212.27,Success: DATABASE_QUERY completed normally. Response time: 212.27ms,0
+2025-01-16 12:43:12.455731,192.168.1.44,user_011,DATABASE_QUERY,INFO,200,193.65,Success: DATABASE_QUERY completed normally. Response time: 193.65ms,0
+2025-01-16 12:45:33.455731,192.168.1.13,user_015,LOGIN,INFO,200,130.19,Success: LOGIN completed normally. Response time: 130.19ms,0
+2025-01-16 13:04:19.455731,192.168.1.8,user_015,LOGIN,INFO,200,166.75,Success: LOGIN completed normally. Response time: 166.75ms,0
+2025-01-16 13:15:36.455731,192.168.1.1,user_012,API_CALL,CRITICAL,500,213.69,Server Error: API_CALL failed with status 500. Response time: 213.69ms,1
+2025-01-16 13:18:41.455731,192.168.1.43,user_012,DATABASE_QUERY,ERROR,401,170.72,Client Error: DATABASE_QUERY request failed with status 401. Response time: 170.72ms,0
+2025-01-16 13:19:35.455731,192.168.1.35,user_006,LOGIN,INFO,200,122.98,Success: LOGIN completed normally. Response time: 122.98ms,0
+2025-01-16 13:20:12.455731,192.168.1.17,user_012,SYSTEM_UPDATE,INFO,200,258.42,Success: SYSTEM_UPDATE completed normally. Response time: 258.42ms,0
+2025-01-16 13:45:47.455731,192.168.1.14,user_019,LOGIN,INFO,200,215.71,Success: LOGIN completed normally. Response time: 215.71ms,0
+2025-01-16 13:52:20.455731,192.168.1.5,user_020,LOGOUT,INFO,200,277.17,Success: LOGOUT completed normally. Response time: 277.17ms,0
+2025-01-16 13:52:24.455731,192.168.1.5,user_006,API_CALL,ERROR,401,181.57,Client Error: API_CALL request failed with status 401. Response time: 181.57ms,0
+2025-01-16 14:16:25.455731,192.168.1.12,user_005,LOGIN,ERROR,401,150.26,Client Error: LOGIN request failed with status 401. Response time: 150.26ms,0
+2025-01-16 14:20:11.455731,192.168.1.33,user_005,API_CALL,INFO,200,204.05,Success: API_CALL completed normally. Response time: 204.05ms,0
+2025-01-16 14:30:25.455731,192.168.1.45,user_004,FILE_ACCESS,INFO,200,166.9,Success: FILE_ACCESS completed normally. Response time: 166.90ms,0
+2025-01-16 14:38:41.455731,192.168.1.38,user_001,LOGOUT,INFO,200,218.11,Success: LOGOUT completed normally. Response time: 218.11ms,0
+2025-01-16 14:55:14.455731,192.168.1.46,user_016,LOGOUT,INFO,201,246.42,Success: LOGOUT completed normally. Response time: 246.42ms,0
+2025-01-16 15:09:11.455731,192.168.1.26,user_002,DATABASE_QUERY,ERROR,400,176.36,Client Error: DATABASE_QUERY request failed with status 400. Response time: 176.36ms,0
+2025-01-16 15:27:54.455731,192.168.1.14,user_007,SYSTEM_UPDATE,INFO,200,143.11,Success: SYSTEM_UPDATE completed normally. Response time: 143.11ms,0
+2025-01-16 15:31:32.455731,192.168.1.17,user_009,SYSTEM_UPDATE,INFO,200,188.71,Success: SYSTEM_UPDATE completed normally. Response time: 188.71ms,0
+2025-01-16 15:32:15.455731,192.168.1.18,user_014,LOGIN,ERROR,404,238.64,Client Error: LOGIN request failed with status 404. Response time: 238.64ms,0
+2025-01-16 15:42:11.455731,192.168.1.47,user_010,API_CALL,INFO,200,128.19,Success: API_CALL completed normally. Response time: 128.19ms,0
+2025-01-16 16:01:17.455731,192.168.1.20,user_011,DATABASE_QUERY,INFO,200,138.19,Success: DATABASE_QUERY completed normally. Response time: 138.19ms,0
+2025-01-16 16:13:24.455731,192.168.1.3,user_002,SYSTEM_UPDATE,INFO,201,99.07,Success: SYSTEM_UPDATE completed normally. Response time: 99.07ms,0
+2025-01-16 16:21:38.455731,192.168.1.26,user_017,DATABASE_QUERY,INFO,200,113.79,Success: DATABASE_QUERY completed normally. Response time: 113.79ms,0
+2025-01-16 16:22:12.455731,192.168.1.42,user_002,DATABASE_QUERY,CRITICAL,503,244.03,Server Error: DATABASE_QUERY failed with status 503. Response time: 244.03ms,1
+2025-01-16 16:35:09.455731,192.168.1.12,user_013,SYSTEM_UPDATE,INFO,200,194.97,Success: SYSTEM_UPDATE completed normally. Response time: 194.97ms,0
+2025-01-16 16:40:11.455731,192.168.1.6,user_015,LOGIN,INFO,200,196.51,Success: LOGIN completed normally. Response time: 196.51ms,0
+2025-01-16 16:48:30.455731,192.168.1.30,user_013,FILE_ACCESS,INFO,200,209.77,Success: FILE_ACCESS completed normally. Response time: 209.77ms,0
+2025-01-16 16:59:37.455731,192.168.1.22,user_007,LOGIN,INFO,200,84.0,Success: LOGIN completed normally. Response time: 84.00ms,0
+2025-01-16 17:31:26.455731,192.168.1.41,user_018,DATABASE_QUERY,INFO,200,136.88,Success: DATABASE_QUERY completed normally. Response time: 136.88ms,0
+2025-01-16 17:48:56.455731,192.168.1.24,user_014,LOGIN,INFO,200,198.69,Success: LOGIN completed normally. Response time: 198.69ms,0
+2025-01-16 17:57:57.455731,192.168.1.49,user_002,FILE_ACCESS,INFO,200,88.51,Success: FILE_ACCESS completed normally. Response time: 88.51ms,0
+2025-01-16 18:00:07.455731,192.168.1.3,user_016,SYSTEM_UPDATE,CRITICAL,503,209.66,Server Error: SYSTEM_UPDATE failed with status 503. Response time: 209.66ms,1
+2025-01-16 18:15:42.455731,192.168.1.4,user_005,FILE_ACCESS,INFO,200,166.31,Success: FILE_ACCESS completed normally. Response time: 166.31ms,0
+2025-01-16 18:16:13.455731,192.168.1.20,user_017,FILE_ACCESS,INFO,200,170.53,Success: FILE_ACCESS completed normally. Response time: 170.53ms,0
+2025-01-16 18:25:47.455731,192.168.1.5,user_004,LOGIN,INFO,200,275.09,Success: LOGIN completed normally. Response time: 275.09ms,0
+2025-01-16 18:39:49.455731,192.168.1.10,user_012,API_CALL,ERROR,404,222.7,Client Error: API_CALL request failed with status 404. Response time: 222.70ms,0
+2025-01-16 18:40:48.455731,192.168.1.46,user_007,DATABASE_QUERY,ERROR,404,258.73,Client Error: DATABASE_QUERY request failed with status 404. Response time: 258.73ms,0
+2025-01-16 18:49:35.455731,192.168.1.23,user_004,FILE_ACCESS,ERROR,401,177.39,Client Error: FILE_ACCESS request failed with status 401. Response time: 177.39ms,0
+2025-01-16 18:53:06.455731,192.168.1.38,user_005,DATABASE_QUERY,INFO,200,206.86,Success: DATABASE_QUERY completed normally. Response time: 206.86ms,0
+2025-01-16 19:03:16.455731,192.168.1.33,user_013,DATABASE_QUERY,INFO,200,277.41,Success: DATABASE_QUERY completed normally. Response time: 277.41ms,0
+2025-01-16 19:29:17.455731,192.168.1.7,user_018,API_CALL,INFO,201,245.66,Success: API_CALL completed normally. Response time: 245.66ms,0
+2025-01-16 19:32:26.455731,192.168.1.21,user_001,SYSTEM_UPDATE,INFO,200,184.27,Success: SYSTEM_UPDATE completed normally. Response time: 184.27ms,0
+2025-01-16 19:39:16.455731,192.168.1.27,user_001,SYSTEM_UPDATE,INFO,201,218.69,Success: SYSTEM_UPDATE completed normally. Response time: 218.69ms,0
+2025-01-16 19:43:13.455731,192.168.1.27,user_018,LOGIN,ERROR,404,196.66,Client Error: LOGIN request failed with status 404. Response time: 196.66ms,0
+2025-01-16 19:53:27.455731,192.168.1.46,user_019,LOGOUT,INFO,200,300.85,Success: LOGOUT completed normally. Response time: 300.85ms,0
+2025-01-16 19:54:06.455731,192.168.1.2,user_002,DATABASE_QUERY,ERROR,401,181.79,Client Error: DATABASE_QUERY request failed with status 401. Response time: 181.79ms,0
+2025-01-16 20:07:36.455731,192.168.1.17,user_012,FILE_ACCESS,INFO,200,209.67,Success: FILE_ACCESS completed normally. Response time: 209.67ms,0
+2025-01-16 20:14:37.455731,192.168.1.3,user_020,DATABASE_QUERY,INFO,201,111.6,Success: DATABASE_QUERY completed normally. Response time: 111.60ms,0
+2025-01-16 20:23:47.455731,192.168.1.30,user_012,LOGOUT,INFO,201,279.48,Success: LOGOUT completed normally. Response time: 279.48ms,0
+2025-01-16 20:25:29.455731,192.168.1.14,user_013,LOGIN,INFO,200,103.38,Success: LOGIN completed normally. Response time: 103.38ms,0
+2025-01-16 20:25:51.455731,192.168.1.2,user_017,SYSTEM_UPDATE,INFO,200,164.25,Success: SYSTEM_UPDATE completed normally. Response time: 164.25ms,0
+2025-01-16 20:29:12.455731,192.168.1.31,user_006,API_CALL,INFO,200,200.21,Success: API_CALL completed normally. Response time: 200.21ms,0
+2025-01-16 20:30:04.455731,192.168.1.29,user_008,API_CALL,INFO,200,188.97,Success: API_CALL completed normally. Response time: 188.97ms,0
+2025-01-16 20:30:19.455731,192.168.1.48,user_003,LOGIN,INFO,200,179.46,Success: LOGIN completed normally. Response time: 179.46ms,0
+2025-01-16 20:30:22.455731,192.168.1.5,user_012,SYSTEM_UPDATE,INFO,200,161.42,Success: SYSTEM_UPDATE completed normally. Response time: 161.42ms,0
+2025-01-16 20:33:30.455731,192.168.1.32,user_016,LOGOUT,INFO,200,172.57,Success: LOGOUT completed normally. Response time: 172.57ms,0
+2025-01-16 20:34:21.455731,192.168.1.28,user_008,API_CALL,ERROR,404,188.08,Client Error: API_CALL request failed with status 404. Response time: 188.08ms,0
+2025-01-16 20:35:42.455731,192.168.1.16,user_003,LOGIN,ERROR,404,272.19,Client Error: LOGIN request failed with status 404. Response time: 272.19ms,0
+2025-01-16 20:43:38.455731,192.168.1.45,user_012,DATABASE_QUERY,CRITICAL,503,235.74,Server Error: DATABASE_QUERY failed with status 503. Response time: 235.74ms,1
+2025-01-16 20:45:49.455731,192.168.1.44,user_008,SYSTEM_UPDATE,INFO,200,138.78,Success: SYSTEM_UPDATE completed normally. Response time: 138.78ms,0
+2025-01-16 20:49:30.455731,192.168.1.37,user_008,FILE_ACCESS,ERROR,401,226.98,Client Error: FILE_ACCESS request failed with status 401. Response time: 226.98ms,0
+2025-01-16 21:17:37.455731,192.168.1.47,user_008,FILE_ACCESS,INFO,200,195.53,Success: FILE_ACCESS completed normally. Response time: 195.53ms,0
+2025-01-16 21:57:12.455731,192.168.1.1,user_003,LOGIN,INFO,200,149.29,Success: LOGIN completed normally. Response time: 149.29ms,0
+2025-01-16 22:15:24.455731,192.168.1.43,user_008,SYSTEM_UPDATE,INFO,200,126.05,Success: SYSTEM_UPDATE completed normally. Response time: 126.05ms,0
+2025-01-16 22:22:19.455731,192.168.1.45,user_003,DATABASE_QUERY,INFO,200,206.01,Success: DATABASE_QUERY completed normally. Response time: 206.01ms,0
+2025-01-16 22:38:17.455731,192.168.1.12,user_013,SYSTEM_UPDATE,INFO,200,214.86,Success: SYSTEM_UPDATE completed normally. Response time: 214.86ms,0
+2025-01-16 22:38:27.455731,192.168.1.12,user_013,FILE_ACCESS,INFO,200,178.37,Success: FILE_ACCESS completed normally. Response time: 178.37ms,0
+2025-01-16 22:42:49.455731,192.168.1.4,user_009,FILE_ACCESS,INFO,200,175.63,Success: FILE_ACCESS completed normally. Response time: 175.63ms,0
+2025-01-16 22:44:19.455731,192.168.1.4,user_019,DATABASE_QUERY,INFO,200,130.08,Success: DATABASE_QUERY completed normally. Response time: 130.08ms,0
+2025-01-16 22:52:19.455731,192.168.1.44,user_017,LOGOUT,INFO,200,228.81,Success: LOGOUT completed normally. Response time: 228.81ms,0
+2025-01-16 23:01:58.455731,192.168.1.22,user_001,SYSTEM_UPDATE,INFO,200,132.62,Success: SYSTEM_UPDATE completed normally. Response time: 132.62ms,0
+2025-01-16 23:10:32.455731,192.168.1.14,user_014,LOGIN,INFO,200,152.63,Success: LOGIN completed normally. Response time: 152.63ms,0
+2025-01-16 23:18:27.455731,192.168.1.9,user_020,DATABASE_QUERY,INFO,201,186.91,Success: DATABASE_QUERY completed normally. Response time: 186.91ms,0
+2025-01-16 23:21:49.455731,192.168.1.50,user_004,SYSTEM_UPDATE,INFO,200,249.3,Success: SYSTEM_UPDATE completed normally. Response time: 249.30ms,0
+2025-01-16 23:39:58.455731,192.168.1.3,user_007,FILE_ACCESS,INFO,200,316.98,Success: FILE_ACCESS completed normally. Response time: 316.98ms,0
+2025-01-16 23:42:26.455731,192.168.1.24,user_005,SYSTEM_UPDATE,INFO,200,253.1,Success: SYSTEM_UPDATE completed normally. Response time: 253.10ms,0
+2025-01-16 23:47:32.455731,192.168.1.31,user_007,FILE_ACCESS,INFO,200,119.11,Success: FILE_ACCESS completed normally. Response time: 119.11ms,0
+2025-01-17 00:02:20.455731,192.168.1.47,user_017,FILE_ACCESS,ERROR,400,298.73,Client Error: FILE_ACCESS request failed with status 400. Response time: 298.73ms,0
+2025-01-17 00:04:16.455731,192.168.1.33,user_010,FILE_ACCESS,INFO,200,190.93,Success: FILE_ACCESS completed normally. Response time: 190.93ms,0
+2025-01-17 00:18:50.455731,192.168.1.18,user_009,API_CALL,CRITICAL,503,133.79,Server Error: API_CALL failed with status 503. Response time: 133.79ms,1
+2025-01-17 00:23:03.455731,192.168.1.43,user_019,API_CALL,INFO,201,139.5,Success: API_CALL completed normally. Response time: 139.50ms,0
+2025-01-17 00:28:09.455731,192.168.1.1,user_009,FILE_ACCESS,CRITICAL,500,279.35,Server Error: FILE_ACCESS failed with status 500. Response time: 279.35ms,1
+2025-01-17 00:28:43.455731,192.168.1.29,user_008,FILE_ACCESS,INFO,200,290.22,Success: FILE_ACCESS completed normally. Response time: 290.22ms,0
+2025-01-17 00:31:54.455731,192.168.1.26,user_002,SYSTEM_UPDATE,INFO,201,236.42,Success: SYSTEM_UPDATE completed normally. Response time: 236.42ms,0
+2025-01-17 00:38:47.455731,192.168.1.36,user_016,FILE_ACCESS,INFO,201,322.07,Success: FILE_ACCESS completed normally. Response time: 322.07ms,0
+2025-01-17 00:54:46.455731,192.168.1.21,user_011,LOGIN,INFO,200,220.99,Success: LOGIN completed normally. Response time: 220.99ms,0
+2025-01-17 00:56:14.455731,192.168.1.48,user_020,LOGIN,ERROR,400,262.3,Client Error: LOGIN request failed with status 400. Response time: 262.30ms,0
+2025-01-17 01:17:41.455731,192.168.1.50,user_002,LOGOUT,INFO,200,179.5,Success: LOGOUT completed normally. Response time: 179.50ms,0
+2025-01-17 01:38:34.455731,192.168.1.39,user_007,SYSTEM_UPDATE,INFO,200,238.73,Success: SYSTEM_UPDATE completed normally. Response time: 238.73ms,0
+2025-01-17 01:48:09.455731,192.168.1.19,user_009,LOGOUT,INFO,200,177.96,Success: LOGOUT completed normally. Response time: 177.96ms,0
+2025-01-17 01:55:36.455731,192.168.1.8,user_003,DATABASE_QUERY,INFO,200,187.26,Success: DATABASE_QUERY completed normally. Response time: 187.26ms,0
+2025-01-17 02:04:16.455731,192.168.1.23,user_005,LOGIN,INFO,201,223.15,Success: LOGIN completed normally. Response time: 223.15ms,0
+2025-01-17 02:45:28.455731,192.168.1.50,user_012,API_CALL,INFO,200,271.69,Success: API_CALL completed normally. Response time: 271.69ms,0
+2025-01-17 02:51:16.455731,192.168.1.17,user_020,LOGIN,INFO,200,157.34,Success: LOGIN completed normally. Response time: 157.34ms,0
+2025-01-17 02:56:56.455731,192.168.1.39,user_007,API_CALL,INFO,200,188.14,Success: API_CALL completed normally. Response time: 188.14ms,0
+2025-01-17 03:18:48.455731,192.168.1.26,user_007,SYSTEM_UPDATE,INFO,200,164.69,Success: SYSTEM_UPDATE completed normally. Response time: 164.69ms,0
+2025-01-17 03:31:43.455731,192.168.1.13,user_011,FILE_ACCESS,INFO,200,264.05,Success: FILE_ACCESS completed normally. Response time: 264.05ms,0
+2025-01-17 03:33:08.455731,192.168.1.50,user_015,SYSTEM_UPDATE,CRITICAL,503,225.28,Server Error: SYSTEM_UPDATE failed with status 503. Response time: 225.28ms,1
+2025-01-17 03:34:09.455731,192.168.1.31,user_010,FILE_ACCESS,ERROR,401,228.28,Client Error: FILE_ACCESS request failed with status 401. Response time: 228.28ms,0
+2025-01-17 04:01:13.455731,192.168.1.31,user_003,LOGOUT,INFO,200,162.59,Success: LOGOUT completed normally. Response time: 162.59ms,0
+2025-01-17 04:08:37.455731,192.168.1.34,user_012,LOGIN,INFO,200,196.43,Success: LOGIN completed normally. Response time: 196.43ms,0
+2025-01-17 04:45:53.455731,192.168.1.36,user_016,LOGOUT,INFO,200,185.72,Success: LOGOUT completed normally. Response time: 185.72ms,0
+2025-01-17 04:57:19.455731,192.168.1.35,user_014,SYSTEM_UPDATE,ERROR,403,270.63,Client Error: SYSTEM_UPDATE request failed with status 403. Response time: 270.63ms,0
+2025-01-17 05:01:59.455731,192.168.1.24,user_018,LOGIN,ERROR,400,213.11,Client Error: LOGIN request failed with status 400. Response time: 213.11ms,0
+2025-01-17 05:23:17.455731,192.168.1.28,user_015,LOGIN,INFO,200,239.16,Success: LOGIN completed normally. Response time: 239.16ms,0
+2025-01-17 05:30:58.455731,192.168.1.44,user_003,DATABASE_QUERY,INFO,201,241.08,Success: DATABASE_QUERY completed normally. Response time: 241.08ms,0
+2025-01-17 05:32:54.455731,192.168.1.39,user_018,LOGOUT,ERROR,400,310.43,Client Error: LOGOUT request failed with status 400. Response time: 310.43ms,0
+2025-01-17 05:34:40.455731,192.168.1.50,user_002,FILE_ACCESS,INFO,200,216.69,Success: FILE_ACCESS completed normally. Response time: 216.69ms,0
+2025-01-17 05:44:50.455731,192.168.1.35,user_006,LOGOUT,ERROR,404,198.77,Client Error: LOGOUT request failed with status 404. Response time: 198.77ms,0
+2025-01-17 05:45:54.455731,192.168.1.21,user_018,FILE_ACCESS,INFO,200,176.67,Success: FILE_ACCESS completed normally. Response time: 176.67ms,0
+2025-01-17 05:48:09.455731,192.168.1.49,user_014,SYSTEM_UPDATE,INFO,201,216.99,Success: SYSTEM_UPDATE completed normally. Response time: 216.99ms,0
+2025-01-17 05:58:12.455731,192.168.1.38,user_006,SYSTEM_UPDATE,INFO,200,143.5,Success: SYSTEM_UPDATE completed normally. Response time: 143.50ms,0
+2025-01-17 06:00:59.455731,192.168.1.38,user_002,SYSTEM_UPDATE,INFO,200,202.77,Success: SYSTEM_UPDATE completed normally. Response time: 202.77ms,0
+2025-01-17 06:07:30.455731,192.168.1.47,user_004,API_CALL,INFO,200,189.84,Success: API_CALL completed normally. Response time: 189.84ms,0
+2025-01-17 06:11:55.455731,192.168.1.49,user_018,SYSTEM_UPDATE,ERROR,401,165.75,Client Error: SYSTEM_UPDATE request failed with status 401. Response time: 165.75ms,0
+2025-01-17 06:17:19.455731,192.168.1.11,user_018,LOGOUT,INFO,200,186.68,Success: LOGOUT completed normally. Response time: 186.68ms,0
+2025-01-17 06:27:30.455731,192.168.1.29,user_002,LOGIN,ERROR,401,218.17,Client Error: LOGIN request failed with status 401. Response time: 218.17ms,0
+2025-01-17 06:28:57.455731,192.168.1.47,user_007,FILE_ACCESS,INFO,200,230.82,Success: FILE_ACCESS completed normally. Response time: 230.82ms,0
+2025-01-17 06:36:32.455731,192.168.1.34,user_001,LOGOUT,INFO,200,230.08,Success: LOGOUT completed normally. Response time: 230.08ms,0
+2025-01-17 06:45:23.455731,192.168.1.8,user_017,DATABASE_QUERY,INFO,200,230.67,Success: DATABASE_QUERY completed normally. Response time: 230.67ms,0
+2025-01-17 07:09:32.455731,192.168.1.8,user_008,DATABASE_QUERY,INFO,200,181.65,Success: DATABASE_QUERY completed normally. Response time: 181.65ms,0
+2025-01-17 07:21:36.455731,192.168.1.42,user_016,LOGOUT,INFO,200,248.01,Success: LOGOUT completed normally. Response time: 248.01ms,0
+2025-01-17 07:40:42.455731,192.168.1.43,user_008,API_CALL,INFO,200,208.07,Success: API_CALL completed normally. Response time: 208.07ms,0
+2025-01-17 07:55:15.455731,192.168.1.43,user_010,FILE_ACCESS,INFO,200,214.17,Success: FILE_ACCESS completed normally. Response time: 214.17ms,0
+2025-01-17 07:56:35.455731,192.168.1.41,user_010,API_CALL,ERROR,401,136.11,Client Error: API_CALL request failed with status 401. Response time: 136.11ms,0
+2025-01-17 08:02:20.455731,192.168.1.16,user_008,LOGOUT,INFO,200,174.42,Success: LOGOUT completed normally. Response time: 174.42ms,0
+2025-01-17 08:04:02.455731,192.168.1.17,user_018,DATABASE_QUERY,INFO,201,117.46,Success: DATABASE_QUERY completed normally. Response time: 117.46ms,0
+2025-01-17 09:12:06.455731,192.168.1.25,user_015,LOGIN,INFO,200,230.35,Success: LOGIN completed normally. Response time: 230.35ms,0
+2025-01-17 09:14:02.455731,192.168.1.15,user_010,FILE_ACCESS,INFO,200,249.95,Success: FILE_ACCESS completed normally. Response time: 249.95ms,0
+2025-01-17 09:33:21.455731,192.168.1.22,user_017,SYSTEM_UPDATE,ERROR,401,168.0,Client Error: SYSTEM_UPDATE request failed with status 401. Response time: 168.00ms,0
+2025-01-17 09:34:56.455731,192.168.1.34,user_017,LOGOUT,INFO,200,165.62,Success: LOGOUT completed normally. Response time: 165.62ms,0
+2025-01-17 09:37:55.455731,192.168.1.39,user_001,LOGOUT,INFO,200,206.57,Success: LOGOUT completed normally. Response time: 206.57ms,0
+2025-01-17 09:49:40.455731,192.168.1.34,user_015,API_CALL,CRITICAL,503,227.68,Server Error: API_CALL failed with status 503. Response time: 227.68ms,1
+2025-01-17 09:57:33.455731,192.168.1.8,user_011,SYSTEM_UPDATE,INFO,201,70.95,Success: SYSTEM_UPDATE completed normally. Response time: 70.95ms,0
+2025-01-17 09:58:25.455731,192.168.1.35,user_010,API_CALL,INFO,200,222.74,Success: API_CALL completed normally. Response time: 222.74ms,0
+2025-01-17 09:59:34.455731,192.168.1.4,user_002,API_CALL,CRITICAL,503,178.98,Server Error: API_CALL failed with status 503. Response time: 178.98ms,1
+2025-01-17 10:16:01.455731,192.168.1.27,user_010,DATABASE_QUERY,ERROR,404,82.87,Client Error: DATABASE_QUERY request failed with status 404. Response time: 82.87ms,0
+2025-01-17 10:47:07.455731,192.168.1.35,user_012,SYSTEM_UPDATE,INFO,200,244.88,Success: SYSTEM_UPDATE completed normally. Response time: 244.88ms,0
+2025-01-17 11:34:54.455731,192.168.1.8,user_008,SYSTEM_UPDATE,INFO,200,174.09,Success: SYSTEM_UPDATE completed normally. Response time: 174.09ms,0
+2025-01-17 11:47:26.455731,192.168.1.15,user_019,SYSTEM_UPDATE,INFO,200,150.59,Success: SYSTEM_UPDATE completed normally. Response time: 150.59ms,0
+2025-01-17 12:09:06.455731,192.168.1.32,user_009,LOGOUT,INFO,200,209.98,Success: LOGOUT completed normally. Response time: 209.98ms,0
+2025-01-17 12:36:40.455731,192.168.1.29,user_004,API_CALL,ERROR,400,149.0,Client Error: API_CALL request failed with status 400. Response time: 149.00ms,0
+2025-01-17 12:46:25.455731,192.168.1.1,user_002,SYSTEM_UPDATE,INFO,201,199.24,Success: SYSTEM_UPDATE completed normally. Response time: 199.24ms,0
+2025-01-17 13:04:54.455731,192.168.1.28,user_016,LOGIN,INFO,200,253.84,Success: LOGIN completed normally. Response time: 253.84ms,0
+2025-01-17 13:05:15.455731,192.168.1.23,user_004,SYSTEM_UPDATE,INFO,200,167.9,Success: SYSTEM_UPDATE completed normally. Response time: 167.90ms,0
+2025-01-17 13:23:14.455731,192.168.1.22,user_015,LOGIN,ERROR,403,281.36,Client Error: LOGIN request failed with status 403. Response time: 281.36ms,0
+2025-01-17 13:34:17.455731,192.168.1.5,user_009,LOGOUT,INFO,200,249.39,Success: LOGOUT completed normally. Response time: 249.39ms,0
+2025-01-17 13:51:56.455731,192.168.1.24,user_003,SYSTEM_UPDATE,INFO,200,244.55,Success: SYSTEM_UPDATE completed normally. Response time: 244.55ms,0
+2025-01-17 14:55:01.455731,192.168.1.14,user_007,LOGIN,INFO,200,181.6,Success: LOGIN completed normally. Response time: 181.60ms,0
+2025-01-17 15:01:01.455731,192.168.1.3,user_006,SYSTEM_UPDATE,INFO,200,277.71,Success: SYSTEM_UPDATE completed normally. Response time: 277.71ms,0
+2025-01-17 15:07:54.455731,192.168.1.45,user_003,LOGOUT,INFO,200,207.71,Success: LOGOUT completed normally. Response time: 207.71ms,0
+2025-01-17 15:17:46.455731,192.168.1.32,user_007,DATABASE_QUERY,ERROR,404,220.25,Client Error: DATABASE_QUERY request failed with status 404. Response time: 220.25ms,0
+2025-01-17 15:21:38.455731,192.168.1.12,user_018,FILE_ACCESS,INFO,200,204.36,Success: FILE_ACCESS completed normally. Response time: 204.36ms,0
+2025-01-17 16:13:26.455731,192.168.1.45,user_005,FILE_ACCESS,INFO,200,193.95,Success: FILE_ACCESS completed normally. Response time: 193.95ms,0
+2025-01-17 16:37:15.455731,192.168.1.30,user_002,DATABASE_QUERY,INFO,200,168.15,Success: DATABASE_QUERY completed normally. Response time: 168.15ms,0
+2025-01-17 16:40:14.455731,192.168.1.40,user_015,DATABASE_QUERY,INFO,200,133.13,Success: DATABASE_QUERY completed normally. Response time: 133.13ms,0
+2025-01-17 16:45:35.455731,192.168.1.22,user_006,LOGOUT,ERROR,404,178.03,Client Error: LOGOUT request failed with status 404. Response time: 178.03ms,0
+2025-01-17 17:16:58.455731,192.168.1.1,user_015,LOGOUT,INFO,200,190.68,Success: LOGOUT completed normally. Response time: 190.68ms,0
+2025-01-17 17:26:10.455731,192.168.1.30,user_014,API_CALL,CRITICAL,503,225.95,Server Error: API_CALL failed with status 503. Response time: 225.95ms,1
+2025-01-17 18:21:47.455731,192.168.1.20,user_001,SYSTEM_UPDATE,INFO,200,161.79,Success: SYSTEM_UPDATE completed normally. Response time: 161.79ms,0
+2025-01-17 18:35:05.455731,192.168.1.49,user_005,LOGIN,INFO,200,83.84,Success: LOGIN completed normally. Response time: 83.84ms,0
+2025-01-17 18:44:09.455731,192.168.1.43,user_017,API_CALL,INFO,200,123.55,Success: API_CALL completed normally. Response time: 123.55ms,0
+2025-01-17 18:49:01.455731,192.168.1.12,user_007,LOGIN,INFO,200,267.08,Success: LOGIN completed normally. Response time: 267.08ms,0
+2025-01-17 18:51:04.455731,192.168.1.26,user_014,LOGIN,INFO,200,125.86,Success: LOGIN completed normally. Response time: 125.86ms,0
+2025-01-17 19:17:54.455731,192.168.1.34,user_013,LOGIN,INFO,200,219.63,Success: LOGIN completed normally. Response time: 219.63ms,0
+2025-01-17 19:24:27.455731,192.168.1.29,user_008,API_CALL,INFO,200,204.52,Success: API_CALL completed normally. Response time: 204.52ms,0
+2025-01-17 19:27:50.455731,192.168.1.44,user_001,LOGIN,INFO,201,263.01,Success: LOGIN completed normally. Response time: 263.01ms,0
+2025-01-17 19:29:27.455731,192.168.1.13,user_014,FILE_ACCESS,INFO,201,263.68,Success: FILE_ACCESS completed normally. Response time: 263.68ms,0
+2025-01-17 19:29:50.455731,192.168.1.26,user_007,LOGIN,ERROR,403,273.32,Client Error: LOGIN request failed with status 403. Response time: 273.32ms,0
+2025-01-17 19:32:14.455731,192.168.1.42,user_004,LOGOUT,CRITICAL,500,212.46,Server Error: LOGOUT failed with status 500. Response time: 212.46ms,1
+2025-01-17 19:34:15.455731,192.168.1.2,user_017,API_CALL,INFO,201,113.86,Success: API_CALL completed normally. Response time: 113.86ms,0
+2025-01-17 19:43:38.455731,192.168.1.4,user_017,FILE_ACCESS,INFO,200,261.9,Success: FILE_ACCESS completed normally. Response time: 261.90ms,0
+2025-01-17 19:51:43.455731,192.168.1.48,user_018,DATABASE_QUERY,INFO,200,207.42,Success: DATABASE_QUERY completed normally. Response time: 207.42ms,0
+2025-01-17 19:55:33.455731,192.168.1.46,user_009,LOGIN,INFO,200,220.83,Success: LOGIN completed normally. Response time: 220.83ms,0
+2025-01-17 20:09:05.455731,192.168.1.36,user_016,LOGOUT,ERROR,400,158.48,Client Error: LOGOUT request failed with status 400. Response time: 158.48ms,0
+2025-01-17 20:09:50.455731,192.168.1.21,user_007,LOGOUT,INFO,201,162.66,Success: LOGOUT completed normally. Response time: 162.66ms,0
+2025-01-17 20:09:55.455731,192.168.1.34,user_009,API_CALL,INFO,200,301.55,Success: API_CALL completed normally. Response time: 301.55ms,0
+2025-01-17 20:10:53.455731,192.168.1.29,user_003,DATABASE_QUERY,INFO,200,214.89,Success: DATABASE_QUERY completed normally. Response time: 214.89ms,0
+2025-01-17 20:41:54.455731,192.168.1.42,user_018,FILE_ACCESS,INFO,200,258.07,Success: FILE_ACCESS completed normally. Response time: 258.07ms,0
+2025-01-17 20:48:46.455731,192.168.1.49,user_014,API_CALL,CRITICAL,503,199.82,Server Error: API_CALL failed with status 503. Response time: 199.82ms,1
+2025-01-17 20:52:40.455731,192.168.1.38,user_020,API_CALL,INFO,200,167.94,Success: API_CALL completed normally. Response time: 167.94ms,0
+2025-01-17 21:06:23.455731,192.168.1.9,user_011,LOGIN,INFO,200,223.94,Success: LOGIN completed normally. Response time: 223.94ms,0
+2025-01-17 21:08:23.455731,192.168.1.9,user_001,FILE_ACCESS,INFO,200,175.99,Success: FILE_ACCESS completed normally. Response time: 175.99ms,0
+2025-01-17 21:27:08.455731,192.168.1.33,user_020,FILE_ACCESS,INFO,200,268.83,Success: FILE_ACCESS completed normally. Response time: 268.83ms,0
+2025-01-17 21:34:23.455731,192.168.1.18,user_004,SYSTEM_UPDATE,ERROR,404,205.42,Client Error: SYSTEM_UPDATE request failed with status 404. Response time: 205.42ms,0
+2025-01-17 21:48:42.455731,192.168.1.32,user_018,DATABASE_QUERY,INFO,200,230.73,Success: DATABASE_QUERY completed normally. Response time: 230.73ms,0
+2025-01-17 22:00:58.455731,192.168.1.45,user_012,DATABASE_QUERY,INFO,200,203.93,Success: DATABASE_QUERY completed normally. Response time: 203.93ms,0
+2025-01-17 22:03:17.455731,192.168.1.26,user_019,SYSTEM_UPDATE,INFO,200,172.25,Success: SYSTEM_UPDATE completed normally. Response time: 172.25ms,0
+2025-01-17 22:08:14.455731,192.168.1.4,user_006,DATABASE_QUERY,INFO,200,286.47,Success: DATABASE_QUERY completed normally. Response time: 286.47ms,0
+2025-01-17 22:20:57.455731,192.168.1.47,user_019,API_CALL,INFO,200,146.46,Success: API_CALL completed normally. Response time: 146.46ms,0
+2025-01-17 22:22:53.455731,192.168.1.18,user_002,SYSTEM_UPDATE,INFO,200,237.5,Success: SYSTEM_UPDATE completed normally. Response time: 237.50ms,0
+2025-01-17 22:26:16.455731,192.168.1.8,user_020,FILE_ACCESS,INFO,200,233.55,Success: FILE_ACCESS completed normally. Response time: 233.55ms,0
+2025-01-17 22:40:54.455731,192.168.1.35,user_003,DATABASE_QUERY,INFO,200,273.49,Success: DATABASE_QUERY completed normally. Response time: 273.49ms,0
+2025-01-17 22:52:12.455731,192.168.1.36,user_011,API_CALL,INFO,201,252.42,Success: API_CALL completed normally. Response time: 252.42ms,0
+2025-01-17 22:52:43.455731,192.168.1.4,user_006,API_CALL,INFO,200,153.54,Success: API_CALL completed normally. Response time: 153.54ms,0
+2025-01-17 22:55:30.455731,192.168.1.43,user_001,SYSTEM_UPDATE,INFO,200,136.34,Success: SYSTEM_UPDATE completed normally. Response time: 136.34ms,0
+2025-01-17 22:59:21.455731,192.168.1.27,user_008,DATABASE_QUERY,INFO,200,194.91,Success: DATABASE_QUERY completed normally. Response time: 194.91ms,0
+2025-01-17 23:04:09.455731,192.168.1.13,user_008,LOGOUT,INFO,200,238.05,Success: LOGOUT completed normally. Response time: 238.05ms,0
+2025-01-17 23:04:33.455731,192.168.1.12,user_007,API_CALL,INFO,200,238.52,Success: API_CALL completed normally. Response time: 238.52ms,0
+2025-01-17 23:07:36.455731,192.168.1.47,user_020,FILE_ACCESS,INFO,200,158.11,Success: FILE_ACCESS completed normally. Response time: 158.11ms,0
+2025-01-17 23:16:06.455731,192.168.1.25,user_012,SYSTEM_UPDATE,INFO,200,181.83,Success: SYSTEM_UPDATE completed normally. Response time: 181.83ms,0
+2025-01-17 23:37:02.455731,192.168.1.45,user_017,LOGIN,ERROR,401,245.05,Client Error: LOGIN request failed with status 401. Response time: 245.05ms,0
+2025-01-17 23:39:33.455731,192.168.1.1,user_007,API_CALL,INFO,201,238.95,Success: API_CALL completed normally. Response time: 238.95ms,0
+2025-01-17 23:56:53.455731,192.168.1.49,user_018,DATABASE_QUERY,INFO,200,313.25,Success: DATABASE_QUERY completed normally. Response time: 313.25ms,0
+2025-01-18 00:20:43.455731,192.168.1.45,user_018,FILE_ACCESS,INFO,200,182.07,Success: FILE_ACCESS completed normally. Response time: 182.07ms,0
+2025-01-18 00:35:58.455731,192.168.1.26,user_019,DATABASE_QUERY,INFO,200,181.94,Success: DATABASE_QUERY completed normally. Response time: 181.94ms,0
+2025-01-18 00:47:00.455731,192.168.1.47,user_018,LOGIN,INFO,200,284.05,Success: LOGIN completed normally. Response time: 284.05ms,0
+2025-01-18 01:21:10.455731,192.168.1.35,user_011,API_CALL,INFO,200,174.22,Success: API_CALL completed normally. Response time: 174.22ms,0
+2025-01-18 01:53:08.455731,192.168.1.33,user_002,LOGOUT,INFO,200,104.42,Success: LOGOUT completed normally. Response time: 104.42ms,0
+2025-01-18 01:55:49.455731,192.168.1.29,user_014,DATABASE_QUERY,ERROR,401,190.45,Client Error: DATABASE_QUERY request failed with status 401. Response time: 190.45ms,0
+2025-01-18 02:01:34.455731,192.168.1.37,user_011,SYSTEM_UPDATE,INFO,200,155.48,Success: SYSTEM_UPDATE completed normally. Response time: 155.48ms,0
+2025-01-18 02:01:56.455731,192.168.1.45,user_015,API_CALL,INFO,200,249.46,Success: API_CALL completed normally. Response time: 249.46ms,0
+2025-01-18 02:20:36.455731,192.168.1.12,user_010,LOGIN,INFO,201,215.02,Success: LOGIN completed normally. Response time: 215.02ms,0
+2025-01-18 02:57:33.455731,192.168.1.28,user_006,LOGIN,INFO,200,284.8,Success: LOGIN completed normally. Response time: 284.80ms,0
+2025-01-18 03:29:44.455731,192.168.1.44,user_003,FILE_ACCESS,INFO,200,191.62,Success: FILE_ACCESS completed normally. Response time: 191.62ms,0
+2025-01-18 04:01:20.455731,192.168.1.47,user_013,DATABASE_QUERY,INFO,200,226.57,Success: DATABASE_QUERY completed normally. Response time: 226.57ms,0
+2025-01-18 04:05:22.455731,192.168.1.11,user_011,SYSTEM_UPDATE,INFO,200,117.37,Success: SYSTEM_UPDATE completed normally. Response time: 117.37ms,0
+2025-01-18 04:05:36.455731,192.168.1.29,user_007,API_CALL,INFO,200,233.63,Success: API_CALL completed normally. Response time: 233.63ms,0
+2025-01-18 04:05:37.455731,192.168.1.41,user_010,DATABASE_QUERY,INFO,200,226.31,Success: DATABASE_QUERY completed normally. Response time: 226.31ms,0
+2025-01-18 04:08:03.455731,192.168.1.32,user_001,DATABASE_QUERY,INFO,200,155.4,Success: DATABASE_QUERY completed normally. Response time: 155.40ms,0
+2025-01-18 04:12:50.455731,192.168.1.25,user_008,DATABASE_QUERY,INFO,200,259.76,Success: DATABASE_QUERY completed normally. Response time: 259.76ms,0
+2025-01-18 04:25:01.455731,192.168.1.18,user_019,LOGIN,ERROR,404,302.44,Client Error: LOGIN request failed with status 404. Response time: 302.44ms,0
+2025-01-18 04:36:47.455731,192.168.1.19,user_001,DATABASE_QUERY,INFO,200,270.19,Success: DATABASE_QUERY completed normally. Response time: 270.19ms,0
+2025-01-18 05:05:18.455731,192.168.1.11,user_011,SYSTEM_UPDATE,INFO,200,140.61,Success: SYSTEM_UPDATE completed normally. Response time: 140.61ms,0
+2025-01-18 05:08:48.455731,192.168.1.10,user_015,DATABASE_QUERY,ERROR,401,194.24,Client Error: DATABASE_QUERY request failed with status 401. Response time: 194.24ms,0
+2025-01-18 05:09:36.455731,192.168.1.12,user_003,LOGIN,INFO,200,250.43,Success: LOGIN completed normally. Response time: 250.43ms,0
+2025-01-18 05:29:21.455731,192.168.1.32,user_001,LOGOUT,INFO,200,194.11,Success: LOGOUT completed normally. Response time: 194.11ms,0
+2025-01-18 05:33:03.455731,192.168.1.29,user_006,LOGOUT,INFO,200,232.89,Success: LOGOUT completed normally. Response time: 232.89ms,0
+2025-01-18 06:19:50.455731,192.168.1.30,user_019,DATABASE_QUERY,INFO,200,286.26,Success: DATABASE_QUERY completed normally. Response time: 286.26ms,0
+2025-01-18 06:30:22.455731,192.168.1.31,user_013,SYSTEM_UPDATE,INFO,200,287.11,Success: SYSTEM_UPDATE completed normally. Response time: 287.11ms,0
+2025-01-18 06:44:46.455731,192.168.1.27,user_005,LOGIN,INFO,200,174.96,Success: LOGIN completed normally. Response time: 174.96ms,0
+2025-01-18 06:56:46.455731,192.168.1.43,user_015,API_CALL,CRITICAL,500,198.16,Server Error: API_CALL failed with status 500. Response time: 198.16ms,1
+2025-01-18 06:57:15.455731,192.168.1.34,user_005,FILE_ACCESS,ERROR,400,170.03,Client Error: FILE_ACCESS request failed with status 400. Response time: 170.03ms,0
+2025-01-18 06:59:51.455731,192.168.1.17,user_013,API_CALL,ERROR,400,106.61,Client Error: API_CALL request failed with status 400. Response time: 106.61ms,0
+2025-01-18 07:15:52.455731,192.168.1.28,user_007,SYSTEM_UPDATE,ERROR,400,314.57,Client Error: SYSTEM_UPDATE request failed with status 400. Response time: 314.57ms,0
+2025-01-18 07:26:15.455731,192.168.1.21,user_009,SYSTEM_UPDATE,INFO,200,161.89,Success: SYSTEM_UPDATE completed normally. Response time: 161.89ms,0
+2025-01-18 07:31:54.455731,192.168.1.40,user_019,LOGOUT,INFO,200,206.69,Success: LOGOUT completed normally. Response time: 206.69ms,0
+2025-01-18 07:42:26.455731,192.168.1.23,user_017,LOGOUT,INFO,200,216.73,Success: LOGOUT completed normally. Response time: 216.73ms,0
+2025-01-18 07:43:34.455731,192.168.1.28,user_007,LOGOUT,INFO,200,186.78,Success: LOGOUT completed normally. Response time: 186.78ms,0
+2025-01-18 08:08:41.455731,192.168.1.15,user_015,LOGOUT,INFO,200,183.05,Success: LOGOUT completed normally. Response time: 183.05ms,0
+2025-01-18 08:10:09.455731,192.168.1.32,user_001,SYSTEM_UPDATE,INFO,200,193.76,Success: SYSTEM_UPDATE completed normally. Response time: 193.76ms,0
+2025-01-18 08:12:32.455731,192.168.1.25,user_002,FILE_ACCESS,INFO,201,189.07,Success: FILE_ACCESS completed normally. Response time: 189.07ms,0
+2025-01-18 08:13:14.455731,192.168.1.41,user_009,LOGIN,CRITICAL,503,131.83,Server Error: LOGIN failed with status 503. Response time: 131.83ms,1
+2025-01-18 08:30:57.455731,192.168.1.28,user_011,API_CALL,INFO,200,169.91,Success: API_CALL completed normally. Response time: 169.91ms,0
+2025-01-18 08:33:04.455731,192.168.1.23,user_010,API_CALL,INFO,200,175.16,Success: API_CALL completed normally. Response time: 175.16ms,0
+2025-01-18 08:34:29.455731,192.168.1.43,user_008,LOGIN,INFO,200,260.02,Success: LOGIN completed normally. Response time: 260.02ms,0
+2025-01-18 08:46:58.455731,192.168.1.33,user_007,LOGOUT,INFO,200,184.98,Success: LOGOUT completed normally. Response time: 184.98ms,0
+2025-01-18 08:53:51.455731,192.168.1.25,user_017,FILE_ACCESS,INFO,200,175.42,Success: FILE_ACCESS completed normally. Response time: 175.42ms,0
+2025-01-18 09:08:42.455731,192.168.1.1,user_014,FILE_ACCESS,INFO,200,144.92,Success: FILE_ACCESS completed normally. Response time: 144.92ms,0
+2025-01-18 09:15:12.455731,192.168.1.12,user_010,SYSTEM_UPDATE,ERROR,403,155.39,Client Error: SYSTEM_UPDATE request failed with status 403. Response time: 155.39ms,0
+2025-01-18 09:15:52.455731,192.168.1.40,user_018,FILE_ACCESS,INFO,200,205.48,Success: FILE_ACCESS completed normally. Response time: 205.48ms,0
+2025-01-18 09:42:03.455731,192.168.1.13,user_019,LOGIN,INFO,200,231.02,Success: LOGIN completed normally. Response time: 231.02ms,0
+2025-01-18 10:02:44.455731,192.168.1.13,user_004,SYSTEM_UPDATE,INFO,200,202.48,Success: SYSTEM_UPDATE completed normally. Response time: 202.48ms,0
+2025-01-18 10:27:51.455731,192.168.1.40,user_015,API_CALL,INFO,201,228.36,Success: API_CALL completed normally. Response time: 228.36ms,0
+2025-01-18 10:50:45.455731,192.168.1.35,user_019,DATABASE_QUERY,INFO,200,149.77,Success: DATABASE_QUERY completed normally. Response time: 149.77ms,0
+2025-01-18 11:03:29.455731,192.168.1.14,user_019,LOGOUT,CRITICAL,503,164.67,Server Error: LOGOUT failed with status 503. Response time: 164.67ms,1
+2025-01-18 11:04:30.455731,192.168.1.21,user_020,API_CALL,INFO,200,86.1,Success: API_CALL completed normally. Response time: 86.10ms,0
+2025-01-18 11:12:42.455731,192.168.1.43,user_002,SYSTEM_UPDATE,ERROR,401,158.51,Client Error: SYSTEM_UPDATE request failed with status 401. Response time: 158.51ms,0
+2025-01-18 11:25:05.455731,192.168.1.11,user_011,LOGIN,ERROR,400,161.5,Client Error: LOGIN request failed with status 400. Response time: 161.50ms,0
+2025-01-18 11:26:14.455731,192.168.1.22,user_009,FILE_ACCESS,INFO,201,167.75,Success: FILE_ACCESS completed normally. Response time: 167.75ms,0
+2025-01-18 11:45:13.455731,192.168.1.15,user_004,LOGOUT,INFO,200,263.68,Success: LOGOUT completed normally. Response time: 263.68ms,0
+2025-01-18 11:50:29.455731,192.168.1.43,user_008,LOGOUT,INFO,200,190.46,Success: LOGOUT completed normally. Response time: 190.46ms,0
+2025-01-18 11:56:08.455731,192.168.1.25,user_010,LOGIN,INFO,200,202.8,Success: LOGIN completed normally. Response time: 202.80ms,0
+2025-01-18 11:56:39.455731,192.168.1.18,user_020,LOGOUT,INFO,201,284.78,Success: LOGOUT completed normally. Response time: 284.78ms,0
+2025-01-18 12:01:02.455731,192.168.1.49,user_016,FILE_ACCESS,INFO,200,230.18,Success: FILE_ACCESS completed normally. Response time: 230.18ms,0
+2025-01-18 12:05:21.455731,192.168.1.49,user_011,FILE_ACCESS,ERROR,400,210.75,Client Error: FILE_ACCESS request failed with status 400. Response time: 210.75ms,0
+2025-01-18 12:06:50.455731,192.168.1.4,user_019,DATABASE_QUERY,INFO,201,205.48,Success: DATABASE_QUERY completed normally. Response time: 205.48ms,0
+2025-01-18 12:13:51.455731,192.168.1.39,user_011,API_CALL,INFO,200,177.02,Success: API_CALL completed normally. Response time: 177.02ms,0
+2025-01-18 12:32:02.455731,192.168.1.24,user_018,FILE_ACCESS,INFO,200,214.32,Success: FILE_ACCESS completed normally. Response time: 214.32ms,0
+2025-01-18 12:51:02.455731,192.168.1.25,user_020,DATABASE_QUERY,INFO,200,171.07,Success: DATABASE_QUERY completed normally. Response time: 171.07ms,0
+2025-01-18 12:55:28.455731,192.168.1.35,user_008,LOGOUT,ERROR,401,260.91,Client Error: LOGOUT request failed with status 401. Response time: 260.91ms,0
+2025-01-18 13:05:23.455731,192.168.1.9,user_008,LOGOUT,INFO,200,247.06,Success: LOGOUT completed normally. Response time: 247.06ms,0
+2025-01-18 13:13:24.455731,192.168.1.41,user_018,FILE_ACCESS,INFO,200,200.29,Success: FILE_ACCESS completed normally. Response time: 200.29ms,0
+2025-01-18 13:14:26.455731,192.168.1.26,user_006,DATABASE_QUERY,INFO,200,217.21,Success: DATABASE_QUERY completed normally. Response time: 217.21ms,0
+2025-01-18 13:24:10.455731,192.168.1.11,user_002,LOGOUT,CRITICAL,503,219.77,Server Error: LOGOUT failed with status 503. Response time: 219.77ms,1
+2025-01-18 13:30:34.455731,192.168.1.19,user_001,API_CALL,INFO,200,195.44,Success: API_CALL completed normally. Response time: 195.44ms,0
+2025-01-18 14:02:07.455731,192.168.1.34,user_010,SYSTEM_UPDATE,INFO,201,254.55,Success: SYSTEM_UPDATE completed normally. Response time: 254.55ms,0
+2025-01-18 14:03:55.455731,192.168.1.13,user_015,API_CALL,ERROR,401,238.4,Client Error: API_CALL request failed with status 401. Response time: 238.40ms,0
+2025-01-18 14:06:30.455731,192.168.1.27,user_017,LOGOUT,INFO,200,169.04,Success: LOGOUT completed normally. Response time: 169.04ms,0
+2025-01-18 14:23:13.455731,192.168.1.49,user_015,DATABASE_QUERY,INFO,200,232.9,Success: DATABASE_QUERY completed normally. Response time: 232.90ms,0
+2025-01-18 14:55:37.455731,192.168.1.21,user_004,API_CALL,INFO,200,222.94,Success: API_CALL completed normally. Response time: 222.94ms,0
+2025-01-18 15:24:30.455731,192.168.1.18,user_006,LOGOUT,INFO,200,210.6,Success: LOGOUT completed normally. Response time: 210.60ms,0
+2025-01-18 15:42:41.455731,192.168.1.46,user_020,DATABASE_QUERY,INFO,200,162.0,Success: DATABASE_QUERY completed normally. Response time: 162.00ms,0
+2025-01-18 15:44:06.455731,192.168.1.5,user_011,API_CALL,ERROR,400,169.75,Client Error: API_CALL request failed with status 400. Response time: 169.75ms,0
+2025-01-18 16:21:23.455731,192.168.1.34,user_015,DATABASE_QUERY,INFO,200,262.09,Success: DATABASE_QUERY completed normally. Response time: 262.09ms,0
+2025-01-18 16:45:14.455731,192.168.1.36,user_008,DATABASE_QUERY,INFO,200,300.95,Success: DATABASE_QUERY completed normally. Response time: 300.95ms,0
+2025-01-18 16:47:17.455731,192.168.1.26,user_020,LOGOUT,INFO,200,157.21,Success: LOGOUT completed normally. Response time: 157.21ms,0
+2025-01-18 16:48:58.455731,192.168.1.48,user_009,FILE_ACCESS,INFO,200,178.06,Success: FILE_ACCESS completed normally. Response time: 178.06ms,0
+2025-01-18 16:49:04.455731,192.168.1.47,user_019,LOGIN,INFO,200,96.7,Success: LOGIN completed normally. Response time: 96.70ms,0
+2025-01-18 16:51:42.455731,192.168.1.18,user_006,DATABASE_QUERY,ERROR,400,214.8,Client Error: DATABASE_QUERY request failed with status 400. Response time: 214.80ms,0
+2025-01-18 16:53:56.455731,192.168.1.3,user_009,DATABASE_QUERY,INFO,200,247.04,Success: DATABASE_QUERY completed normally. Response time: 247.04ms,0
+2025-01-18 16:57:20.455731,192.168.1.36,user_012,SYSTEM_UPDATE,INFO,200,264.37,Success: SYSTEM_UPDATE completed normally. Response time: 264.37ms,0
+2025-01-18 17:12:52.455731,192.168.1.48,user_019,API_CALL,INFO,200,140.3,Success: API_CALL completed normally. Response time: 140.30ms,0
+2025-01-18 17:17:33.455731,192.168.1.40,user_017,API_CALL,INFO,200,230.06,Success: API_CALL completed normally. Response time: 230.06ms,0
+2025-01-18 17:20:19.455731,192.168.1.37,user_018,SYSTEM_UPDATE,ERROR,401,270.18,Client Error: SYSTEM_UPDATE request failed with status 401. Response time: 270.18ms,0
+2025-01-18 17:28:31.455731,192.168.1.15,user_011,LOGIN,ERROR,403,203.56,Client Error: LOGIN request failed with status 403. Response time: 203.56ms,0
+2025-01-18 17:33:49.455731,192.168.1.1,user_014,LOGIN,INFO,200,210.26,Success: LOGIN completed normally. Response time: 210.26ms,0
+2025-01-18 17:48:08.455731,192.168.1.17,user_014,LOGIN,INFO,200,196.96,Success: LOGIN completed normally. Response time: 196.96ms,0
+2025-01-18 17:50:50.455731,192.168.1.24,user_010,LOGOUT,INFO,200,227.28,Success: LOGOUT completed normally. Response time: 227.28ms,0
+2025-01-18 18:16:44.455731,192.168.1.5,user_010,DATABASE_QUERY,INFO,200,193.68,Success: DATABASE_QUERY completed normally. Response time: 193.68ms,0
+2025-01-18 19:03:50.455731,192.168.1.9,user_015,API_CALL,INFO,200,127.3,Success: API_CALL completed normally. Response time: 127.30ms,0
+2025-01-18 19:18:22.455731,192.168.1.28,user_009,FILE_ACCESS,INFO,200,249.92,Success: FILE_ACCESS completed normally. Response time: 249.92ms,0
+2025-01-18 19:18:41.455731,192.168.1.33,user_008,LOGOUT,INFO,200,195.98,Success: LOGOUT completed normally. Response time: 195.98ms,0
+2025-01-18 19:26:13.455731,192.168.1.10,user_018,FILE_ACCESS,INFO,201,231.31,Success: FILE_ACCESS completed normally. Response time: 231.31ms,0
+2025-01-18 19:56:47.455731,192.168.1.29,user_001,SYSTEM_UPDATE,INFO,200,212.87,Success: SYSTEM_UPDATE completed normally. Response time: 212.87ms,0
+2025-01-18 20:06:27.455731,192.168.1.47,user_002,SYSTEM_UPDATE,INFO,200,238.32,Success: SYSTEM_UPDATE completed normally. Response time: 238.32ms,0
+2025-01-18 20:10:52.455731,192.168.1.39,user_018,LOGOUT,INFO,200,220.34,Success: LOGOUT completed normally. Response time: 220.34ms,0
+2025-01-18 20:28:49.455731,192.168.1.50,user_019,FILE_ACCESS,INFO,200,208.73,Success: FILE_ACCESS completed normally. Response time: 208.73ms,0
+2025-01-18 20:35:24.455731,192.168.1.15,user_004,LOGIN,INFO,200,206.58,Success: LOGIN completed normally. Response time: 206.58ms,0
+2025-01-18 20:43:27.455731,192.168.1.3,user_006,LOGIN,INFO,200,196.34,Success: LOGIN completed normally. Response time: 196.34ms,0
+2025-01-18 20:55:25.455731,192.168.1.43,user_020,FILE_ACCESS,INFO,200,187.32,Success: FILE_ACCESS completed normally. Response time: 187.32ms,0
+2025-01-18 21:00:18.455731,192.168.1.49,user_005,LOGIN,INFO,200,119.17,Success: LOGIN completed normally. Response time: 119.17ms,0
+2025-01-18 21:16:14.455731,192.168.1.18,user_018,FILE_ACCESS,INFO,200,274.4,Success: FILE_ACCESS completed normally. Response time: 274.40ms,0
+2025-01-18 21:20:48.455731,192.168.1.20,user_005,LOGOUT,INFO,201,124.33,Success: LOGOUT completed normally. Response time: 124.33ms,0
+2025-01-18 21:22:26.455731,192.168.1.5,user_002,SYSTEM_UPDATE,INFO,200,132.93,Success: SYSTEM_UPDATE completed normally. Response time: 132.93ms,0
+2025-01-18 21:31:36.455731,192.168.1.50,user_009,FILE_ACCESS,INFO,200,175.11,Success: FILE_ACCESS completed normally. Response time: 175.11ms,0
+2025-01-18 21:44:08.455731,192.168.1.44,user_002,DATABASE_QUERY,INFO,200,240.16,Success: DATABASE_QUERY completed normally. Response time: 240.16ms,0
+2025-01-18 21:47:41.455731,192.168.1.32,user_011,LOGOUT,INFO,201,193.06,Success: LOGOUT completed normally. Response time: 193.06ms,0
+2025-01-18 21:49:21.455731,192.168.1.48,user_017,LOGIN,INFO,200,156.84,Success: LOGIN completed normally. Response time: 156.84ms,0
+2025-01-18 21:51:50.455731,192.168.1.47,user_010,DATABASE_QUERY,INFO,200,185.09,Success: DATABASE_QUERY completed normally. Response time: 185.09ms,0
+2025-01-18 21:52:16.455731,192.168.1.30,user_013,FILE_ACCESS,INFO,200,166.79,Success: FILE_ACCESS completed normally. Response time: 166.79ms,0
+2025-01-18 21:57:39.455731,192.168.1.6,user_004,LOGIN,CRITICAL,500,114.6,Server Error: LOGIN failed with status 500. Response time: 114.60ms,1
+2025-01-18 22:02:10.455731,192.168.1.12,user_018,DATABASE_QUERY,ERROR,400,293.67,Client Error: DATABASE_QUERY request failed with status 400. Response time: 293.67ms,0
+2025-01-18 22:18:39.455731,192.168.1.21,user_009,API_CALL,INFO,200,220.09,Success: API_CALL completed normally. Response time: 220.09ms,0
+2025-01-18 23:12:36.455731,192.168.1.41,user_005,DATABASE_QUERY,INFO,200,215.98,Success: DATABASE_QUERY completed normally. Response time: 215.98ms,0
+2025-01-18 23:13:22.455731,192.168.1.27,user_019,LOGOUT,INFO,200,139.59,Success: LOGOUT completed normally. Response time: 139.59ms,0
+2025-01-18 23:18:32.455731,192.168.1.6,user_016,SYSTEM_UPDATE,INFO,200,195.38,Success: SYSTEM_UPDATE completed normally. Response time: 195.38ms,0
+2025-01-18 23:32:43.455731,192.168.1.34,user_013,LOGOUT,INFO,200,225.7,Success: LOGOUT completed normally. Response time: 225.70ms,0
+2025-01-18 23:32:54.455731,192.168.1.14,user_016,LOGIN,INFO,200,216.99,Success: LOGIN completed normally. Response time: 216.99ms,0
+2025-01-19 00:10:42.455731,192.168.1.32,user_018,API_CALL,INFO,200,126.95,Success: API_CALL completed normally. Response time: 126.95ms,0
+2025-01-19 00:14:54.455731,192.168.1.4,user_001,API_CALL,INFO,201,166.74,Success: API_CALL completed normally. Response time: 166.74ms,0
+2025-01-19 00:46:00.455731,192.168.1.36,user_012,API_CALL,INFO,200,129.27,Success: API_CALL completed normally. Response time: 129.27ms,0
+2025-01-19 00:51:40.455731,192.168.1.32,user_016,API_CALL,INFO,200,204.69,Success: API_CALL completed normally. Response time: 204.69ms,0
+2025-01-19 01:15:28.455731,192.168.1.4,user_017,DATABASE_QUERY,INFO,200,175.66,Success: DATABASE_QUERY completed normally. Response time: 175.66ms,0
+2025-01-19 01:21:00.455731,192.168.1.48,user_014,LOGOUT,ERROR,401,266.15,Client Error: LOGOUT request failed with status 401. Response time: 266.15ms,0
+2025-01-19 01:26:27.455731,192.168.1.48,user_006,SYSTEM_UPDATE,INFO,201,298.44,Success: SYSTEM_UPDATE completed normally. Response time: 298.44ms,0
+2025-01-19 01:37:40.455731,192.168.1.46,user_005,LOGIN,INFO,201,163.02,Success: LOGIN completed normally. Response time: 163.02ms,0
+2025-01-19 01:40:20.455731,192.168.1.24,user_004,FILE_ACCESS,INFO,200,178.36,Success: FILE_ACCESS completed normally. Response time: 178.36ms,0
+2025-01-19 01:52:06.455731,192.168.1.28,user_014,SYSTEM_UPDATE,INFO,200,219.31,Success: SYSTEM_UPDATE completed normally. Response time: 219.31ms,0
+2025-01-19 01:57:17.455731,192.168.1.47,user_001,DATABASE_QUERY,INFO,201,217.1,Success: DATABASE_QUERY completed normally. Response time: 217.10ms,0
+2025-01-19 02:06:57.455731,192.168.1.30,user_016,API_CALL,INFO,200,293.68,Success: API_CALL completed normally. Response time: 293.68ms,0
+2025-01-19 02:17:48.455731,192.168.1.42,user_016,FILE_ACCESS,ERROR,403,148.75,Client Error: FILE_ACCESS request failed with status 403. Response time: 148.75ms,0
+2025-01-19 02:23:56.455731,192.168.1.30,user_011,FILE_ACCESS,INFO,200,231.83,Success: FILE_ACCESS completed normally. Response time: 231.83ms,0
+2025-01-19 02:26:15.455731,192.168.1.5,user_016,DATABASE_QUERY,CRITICAL,503,132.64,Server Error: DATABASE_QUERY failed with status 503. Response time: 132.64ms,1
+2025-01-19 02:47:02.455731,192.168.1.34,user_015,LOGIN,INFO,200,200.91,Success: LOGIN completed normally. Response time: 200.91ms,0
+2025-01-19 03:06:07.455731,192.168.1.20,user_018,API_CALL,INFO,200,168.62,Success: API_CALL completed normally. Response time: 168.62ms,0
+2025-01-19 03:29:54.455731,192.168.1.13,user_010,FILE_ACCESS,INFO,200,163.2,Success: FILE_ACCESS completed normally. Response time: 163.20ms,0
+2025-01-19 03:38:01.455731,192.168.1.21,user_017,DATABASE_QUERY,ERROR,401,155.56,Client Error: DATABASE_QUERY request failed with status 401. Response time: 155.56ms,0
+2025-01-19 03:45:28.455731,192.168.1.21,user_001,LOGIN,INFO,200,205.33,Success: LOGIN completed normally. Response time: 205.33ms,0
+2025-01-19 03:50:31.455731,192.168.1.48,user_018,SYSTEM_UPDATE,INFO,200,176.66,Success: SYSTEM_UPDATE completed normally. Response time: 176.66ms,0
+2025-01-19 03:51:33.455731,192.168.1.14,user_017,FILE_ACCESS,INFO,200,157.83,Success: FILE_ACCESS completed normally. Response time: 157.83ms,0
+2025-01-19 04:14:41.455731,192.168.1.18,user_008,LOGIN,INFO,200,140.5,Success: LOGIN completed normally. Response time: 140.50ms,0
+2025-01-19 04:22:30.455731,192.168.1.4,user_005,API_CALL,INFO,200,201.72,Success: API_CALL completed normally. Response time: 201.72ms,0
+2025-01-19 04:51:23.455731,192.168.1.4,user_001,SYSTEM_UPDATE,INFO,200,249.2,Success: SYSTEM_UPDATE completed normally. Response time: 249.20ms,0
+2025-01-19 04:51:35.455731,192.168.1.50,user_018,API_CALL,INFO,200,246.19,Success: API_CALL completed normally. Response time: 246.19ms,0
+2025-01-19 04:55:05.455731,192.168.1.9,user_004,LOGOUT,INFO,200,178.14,Success: LOGOUT completed normally. Response time: 178.14ms,0
+2025-01-19 05:09:49.455731,192.168.1.23,user_013,LOGIN,INFO,200,167.99,Success: LOGIN completed normally. Response time: 167.99ms,0
+2025-01-19 05:11:38.455731,192.168.1.6,user_001,DATABASE_QUERY,INFO,201,65.61,Success: DATABASE_QUERY completed normally. Response time: 65.61ms,0
+2025-01-19 05:12:44.455731,192.168.1.46,user_020,API_CALL,ERROR,401,217.13,Client Error: API_CALL request failed with status 401. Response time: 217.13ms,0
+2025-01-19 05:16:01.455731,192.168.1.34,user_008,DATABASE_QUERY,INFO,200,227.93,Success: DATABASE_QUERY completed normally. Response time: 227.93ms,0
+2025-01-19 05:23:40.455731,192.168.1.31,user_004,LOGOUT,INFO,200,263.47,Success: LOGOUT completed normally. Response time: 263.47ms,0
+2025-01-19 05:33:18.455731,192.168.1.5,user_009,SYSTEM_UPDATE,INFO,200,187.66,Success: SYSTEM_UPDATE completed normally. Response time: 187.66ms,0
+2025-01-19 05:37:25.455731,192.168.1.36,user_019,SYSTEM_UPDATE,INFO,200,218.08,Success: SYSTEM_UPDATE completed normally. Response time: 218.08ms,0
+2025-01-19 05:47:25.455731,192.168.1.10,user_002,API_CALL,INFO,200,177.3,Success: API_CALL completed normally. Response time: 177.30ms,0
+2025-01-19 06:01:55.455731,192.168.1.47,user_001,FILE_ACCESS,INFO,200,110.95,Success: FILE_ACCESS completed normally. Response time: 110.95ms,0
+2025-01-19 06:05:31.455731,192.168.1.22,user_012,LOGIN,ERROR,401,199.79,Client Error: LOGIN request failed with status 401. Response time: 199.79ms,0
+2025-01-19 06:12:39.455731,192.168.1.1,user_006,FILE_ACCESS,CRITICAL,500,220.12,Server Error: FILE_ACCESS failed with status 500. Response time: 220.12ms,1
+2025-01-19 06:13:13.455731,192.168.1.27,user_020,LOGIN,INFO,200,228.54,Success: LOGIN completed normally. Response time: 228.54ms,0
+2025-01-19 06:37:55.455731,192.168.1.1,user_002,LOGOUT,INFO,200,229.76,Success: LOGOUT completed normally. Response time: 229.76ms,0
+2025-01-19 06:38:50.455731,192.168.1.16,user_002,API_CALL,INFO,200,158.7,Success: API_CALL completed normally. Response time: 158.70ms,0
+2025-01-19 06:42:08.455731,192.168.1.19,user_012,SYSTEM_UPDATE,INFO,200,107.51,Success: SYSTEM_UPDATE completed normally. Response time: 107.51ms,0
+2025-01-19 06:43:29.455731,192.168.1.40,user_008,LOGIN,INFO,201,218.19,Success: LOGIN completed normally. Response time: 218.19ms,0
+2025-01-19 06:45:17.455731,192.168.1.45,user_016,LOGOUT,INFO,201,226.49,Success: LOGOUT completed normally. Response time: 226.49ms,0
+2025-01-19 06:45:26.455731,192.168.1.33,user_007,API_CALL,INFO,200,223.05,Success: API_CALL completed normally. Response time: 223.05ms,0
+2025-01-19 06:46:30.455731,192.168.1.27,user_015,DATABASE_QUERY,INFO,201,113.41,Success: DATABASE_QUERY completed normally. Response time: 113.41ms,0
+2025-01-19 06:48:21.455731,192.168.1.15,user_015,LOGIN,INFO,200,180.33,Success: LOGIN completed normally. Response time: 180.33ms,0
+2025-01-19 06:58:23.455731,192.168.1.8,user_001,API_CALL,INFO,200,196.44,Success: API_CALL completed normally. Response time: 196.44ms,0
+2025-01-19 07:16:22.455731,192.168.1.12,user_009,LOGIN,INFO,200,180.68,Success: LOGIN completed normally. Response time: 180.68ms,0
+2025-01-19 07:19:00.455731,192.168.1.20,user_008,SYSTEM_UPDATE,INFO,200,167.64,Success: SYSTEM_UPDATE completed normally. Response time: 167.64ms,0
+2025-01-19 07:23:29.455731,192.168.1.12,user_019,LOGOUT,INFO,201,243.87,Success: LOGOUT completed normally. Response time: 243.87ms,0
+2025-01-19 08:08:16.455731,192.168.1.24,user_007,SYSTEM_UPDATE,INFO,200,295.33,Success: SYSTEM_UPDATE completed normally. Response time: 295.33ms,0
+2025-01-19 08:18:56.455731,192.168.1.29,user_003,SYSTEM_UPDATE,INFO,200,292.27,Success: SYSTEM_UPDATE completed normally. Response time: 292.27ms,0
+2025-01-19 08:21:40.455731,192.168.1.33,user_002,LOGOUT,ERROR,400,289.14,Client Error: LOGOUT request failed with status 400. Response time: 289.14ms,0
+2025-01-19 08:34:41.455731,192.168.1.26,user_003,FILE_ACCESS,INFO,200,139.17,Success: FILE_ACCESS completed normally. Response time: 139.17ms,0
+2025-01-19 08:56:43.455731,192.168.1.28,user_013,FILE_ACCESS,INFO,201,168.59,Success: FILE_ACCESS completed normally. Response time: 168.59ms,0
+2025-01-19 09:30:50.455731,192.168.1.14,user_009,LOGIN,ERROR,400,192.6,Client Error: LOGIN request failed with status 400. Response time: 192.60ms,0
+2025-01-19 09:34:02.455731,192.168.1.17,user_020,DATABASE_QUERY,INFO,200,133.17,Success: DATABASE_QUERY completed normally. Response time: 133.17ms,0
+2025-01-19 09:48:22.455731,192.168.1.21,user_017,LOGIN,INFO,200,199.3,Success: LOGIN completed normally. Response time: 199.30ms,0
+2025-01-19 09:58:25.455731,192.168.1.28,user_006,FILE_ACCESS,INFO,200,125.35,Success: FILE_ACCESS completed normally. Response time: 125.35ms,0
+2025-01-19 10:11:41.455731,192.168.1.26,user_018,DATABASE_QUERY,INFO,201,174.01,Success: DATABASE_QUERY completed normally. Response time: 174.01ms,0
+2025-01-19 10:53:06.455731,192.168.1.25,user_010,DATABASE_QUERY,INFO,200,135.53,Success: DATABASE_QUERY completed normally. Response time: 135.53ms,0
+2025-01-19 10:53:54.455731,192.168.1.29,user_020,DATABASE_QUERY,INFO,200,168.74,Success: DATABASE_QUERY completed normally. Response time: 168.74ms,0
+2025-01-19 11:16:01.455731,192.168.1.11,user_011,API_CALL,INFO,201,211.94,Success: API_CALL completed normally. Response time: 211.94ms,0
+2025-01-19 11:35:29.455731,192.168.1.41,user_006,LOGIN,ERROR,401,72.31,Client Error: LOGIN request failed with status 401. Response time: 72.31ms,0
+2025-01-19 11:37:25.455731,192.168.1.38,user_002,DATABASE_QUERY,ERROR,401,210.91,Client Error: DATABASE_QUERY request failed with status 401. Response time: 210.91ms,0
+2025-01-19 11:39:30.455731,192.168.1.19,user_002,DATABASE_QUERY,ERROR,400,210.12,Client Error: DATABASE_QUERY request failed with status 400. Response time: 210.12ms,0
+2025-01-19 11:52:36.455731,192.168.1.28,user_002,FILE_ACCESS,INFO,200,219.14,Success: FILE_ACCESS completed normally. Response time: 219.14ms,0
+2025-01-19 11:53:43.455731,192.168.1.22,user_012,API_CALL,INFO,200,171.17,Success: API_CALL completed normally. Response time: 171.17ms,0
+2025-01-19 12:34:31.455731,192.168.1.25,user_015,FILE_ACCESS,INFO,200,74.12,Success: FILE_ACCESS completed normally. Response time: 74.12ms,0
+2025-01-19 12:34:39.455731,192.168.1.47,user_013,FILE_ACCESS,INFO,201,85.12,Success: FILE_ACCESS completed normally. Response time: 85.12ms,0
+2025-01-19 12:39:27.455731,192.168.1.3,user_012,LOGIN,INFO,200,255.57,Success: LOGIN completed normally. Response time: 255.57ms,0
+2025-01-19 12:46:03.455731,192.168.1.38,user_007,API_CALL,INFO,200,199.72,Success: API_CALL completed normally. Response time: 199.72ms,0
+2025-01-19 12:55:21.455731,192.168.1.42,user_003,LOGIN,ERROR,400,170.63,Client Error: LOGIN request failed with status 400. Response time: 170.63ms,0
+2025-01-19 12:56:32.455731,192.168.1.48,user_009,FILE_ACCESS,INFO,200,235.95,Success: FILE_ACCESS completed normally. Response time: 235.95ms,0
+2025-01-19 12:58:35.455731,192.168.1.46,user_020,DATABASE_QUERY,ERROR,400,207.92,Client Error: DATABASE_QUERY request failed with status 400. Response time: 207.92ms,0
+2025-01-19 13:05:57.455731,192.168.1.10,user_005,LOGIN,INFO,200,221.26,Success: LOGIN completed normally. Response time: 221.26ms,0
+2025-01-19 13:17:27.455731,192.168.1.3,user_017,LOGIN,INFO,200,159.83,Success: LOGIN completed normally. Response time: 159.83ms,0
+2025-01-19 13:19:09.455731,192.168.1.15,user_004,FILE_ACCESS,INFO,200,180.57,Success: FILE_ACCESS completed normally. Response time: 180.57ms,0
+2025-01-19 13:24:13.455731,192.168.1.14,user_016,SYSTEM_UPDATE,INFO,200,244.38,Success: SYSTEM_UPDATE completed normally. Response time: 244.38ms,0
+2025-01-19 13:24:25.455731,192.168.1.9,user_018,LOGOUT,INFO,200,198.43,Success: LOGOUT completed normally. Response time: 198.43ms,0
+2025-01-19 13:27:40.455731,192.168.1.11,user_001,API_CALL,INFO,200,246.4,Success: API_CALL completed normally. Response time: 246.40ms,0
+2025-01-19 13:36:36.455731,192.168.1.34,user_019,LOGOUT,INFO,200,192.2,Success: LOGOUT completed normally. Response time: 192.20ms,0
+2025-01-19 13:48:12.455731,192.168.1.42,user_015,API_CALL,INFO,200,187.26,Success: API_CALL completed normally. Response time: 187.26ms,0
+2025-01-19 13:49:54.455731,192.168.1.36,user_002,FILE_ACCESS,INFO,200,269.07,Success: FILE_ACCESS completed normally. Response time: 269.07ms,0
+2025-01-19 14:21:59.455731,192.168.1.24,user_001,FILE_ACCESS,INFO,201,220.76,Success: FILE_ACCESS completed normally. Response time: 220.76ms,0
+2025-01-19 14:58:31.455731,192.168.1.32,user_013,LOGOUT,INFO,201,212.91,Success: LOGOUT completed normally. Response time: 212.91ms,0
+2025-01-19 15:13:36.455731,192.168.1.40,user_007,LOGIN,INFO,200,228.34,Success: LOGIN completed normally. Response time: 228.34ms,0
+2025-01-19 15:27:35.455731,192.168.1.18,user_003,API_CALL,CRITICAL,503,237.75,Server Error: API_CALL failed with status 503. Response time: 237.75ms,1
+2025-01-19 15:37:58.455731,192.168.1.36,user_020,LOGOUT,INFO,200,171.31,Success: LOGOUT completed normally. Response time: 171.31ms,0
+2025-01-19 15:44:51.455731,192.168.1.27,user_001,FILE_ACCESS,INFO,201,245.6,Success: FILE_ACCESS completed normally. Response time: 245.60ms,0
+2025-01-19 15:46:22.455731,192.168.1.13,user_015,FILE_ACCESS,INFO,201,123.6,Success: FILE_ACCESS completed normally. Response time: 123.60ms,0
+2025-01-19 15:56:04.455731,192.168.1.21,user_005,LOGIN,INFO,200,269.76,Success: LOGIN completed normally. Response time: 269.76ms,0
+2025-01-19 15:56:38.455731,192.168.1.32,user_007,LOGIN,INFO,200,172.96,Success: LOGIN completed normally. Response time: 172.96ms,0
+2025-01-19 16:07:27.455731,192.168.1.25,user_002,DATABASE_QUERY,INFO,200,162.74,Success: DATABASE_QUERY completed normally. Response time: 162.74ms,0
+2025-01-19 16:13:06.455731,192.168.1.6,user_012,LOGIN,ERROR,403,180.07,Client Error: LOGIN request failed with status 403. Response time: 180.07ms,0
+2025-01-19 16:16:38.455731,192.168.1.16,user_005,DATABASE_QUERY,INFO,200,313.05,Success: DATABASE_QUERY completed normally. Response time: 313.05ms,0
+2025-01-19 16:38:33.455731,192.168.1.39,user_004,FILE_ACCESS,INFO,200,264.42,Success: FILE_ACCESS completed normally. Response time: 264.42ms,0
+2025-01-19 16:50:58.455731,192.168.1.25,user_011,LOGIN,INFO,200,235.07,Success: LOGIN completed normally. Response time: 235.07ms,0
+2025-01-19 16:54:26.455731,192.168.1.28,user_020,API_CALL,INFO,200,298.12,Success: API_CALL completed normally. Response time: 298.12ms,0
+2025-01-19 17:11:03.455731,192.168.1.38,user_003,API_CALL,INFO,200,58.24,Success: API_CALL completed normally. Response time: 58.24ms,0
+2025-01-19 17:28:04.455731,192.168.1.19,user_018,FILE_ACCESS,CRITICAL,503,162.24,Server Error: FILE_ACCESS failed with status 503. Response time: 162.24ms,1
+2025-01-19 17:39:40.455731,192.168.1.37,user_008,LOGIN,INFO,200,216.0,Success: LOGIN completed normally. Response time: 216.00ms,0
+2025-01-19 18:07:59.455731,192.168.1.19,user_017,LOGIN,INFO,200,282.06,Success: LOGIN completed normally. Response time: 282.06ms,0
+2025-01-19 18:12:12.455731,192.168.1.11,user_008,DATABASE_QUERY,INFO,200,198.15,Success: DATABASE_QUERY completed normally. Response time: 198.15ms,0
+2025-01-19 18:20:49.455731,192.168.1.36,user_004,SYSTEM_UPDATE,INFO,200,109.44,Success: SYSTEM_UPDATE completed normally. Response time: 109.44ms,0
+2025-01-19 18:29:44.455731,192.168.1.40,user_013,SYSTEM_UPDATE,INFO,200,185.24,Success: SYSTEM_UPDATE completed normally. Response time: 185.24ms,0
+2025-01-19 19:28:27.455731,192.168.1.32,user_012,FILE_ACCESS,INFO,200,216.06,Success: FILE_ACCESS completed normally. Response time: 216.06ms,0
+2025-01-19 19:37:34.455731,192.168.1.19,user_017,LOGOUT,INFO,200,202.74,Success: LOGOUT completed normally. Response time: 202.74ms,0
+2025-01-19 19:50:38.455731,192.168.1.3,user_019,LOGOUT,INFO,200,270.72,Success: LOGOUT completed normally. Response time: 270.72ms,0
+2025-01-19 20:08:45.455731,192.168.1.48,user_017,FILE_ACCESS,INFO,200,204.45,Success: FILE_ACCESS completed normally. Response time: 204.45ms,0
+2025-01-19 20:16:44.455731,192.168.1.9,user_020,SYSTEM_UPDATE,INFO,200,173.73,Success: SYSTEM_UPDATE completed normally. Response time: 173.73ms,0
+2025-01-19 20:19:18.455731,192.168.1.46,user_017,LOGIN,INFO,201,130.63,Success: LOGIN completed normally. Response time: 130.63ms,0
+2025-01-19 20:30:09.455731,192.168.1.7,user_006,API_CALL,INFO,200,191.88,Success: API_CALL completed normally. Response time: 191.88ms,0
+2025-01-19 20:44:52.455731,192.168.1.25,user_016,API_CALL,ERROR,404,238.18,Client Error: API_CALL request failed with status 404. Response time: 238.18ms,0
+2025-01-19 20:49:17.455731,192.168.1.15,user_003,LOGOUT,INFO,201,263.45,Success: LOGOUT completed normally. Response time: 263.45ms,0
+2025-01-19 21:30:52.455731,192.168.1.42,user_006,DATABASE_QUERY,INFO,201,179.16,Success: DATABASE_QUERY completed normally. Response time: 179.16ms,0
+2025-01-19 21:40:54.455731,192.168.1.6,user_004,LOGOUT,INFO,200,201.59,Success: LOGOUT completed normally. Response time: 201.59ms,0
+2025-01-19 21:55:14.455731,192.168.1.16,user_018,LOGOUT,INFO,200,214.69,Success: LOGOUT completed normally. Response time: 214.69ms,0
+2025-01-19 22:01:19.455731,192.168.1.36,user_009,SYSTEM_UPDATE,INFO,200,190.62,Success: SYSTEM_UPDATE completed normally. Response time: 190.62ms,0
+2025-01-19 22:15:49.455731,192.168.1.47,user_012,API_CALL,INFO,200,186.72,Success: API_CALL completed normally. Response time: 186.72ms,0
+2025-01-19 22:25:23.455731,192.168.1.14,user_005,SYSTEM_UPDATE,INFO,200,237.66,Success: SYSTEM_UPDATE completed normally. Response time: 237.66ms,0
+2025-01-19 22:28:26.455731,192.168.1.48,user_020,FILE_ACCESS,INFO,201,132.96,Success: FILE_ACCESS completed normally. Response time: 132.96ms,0
+2025-01-19 22:32:09.455731,192.168.1.37,user_003,LOGOUT,INFO,200,156.22,Success: LOGOUT completed normally. Response time: 156.22ms,0
+2025-01-19 22:35:05.455731,192.168.1.27,user_008,SYSTEM_UPDATE,INFO,200,167.05,Success: SYSTEM_UPDATE completed normally. Response time: 167.05ms,0
+2025-01-19 22:40:30.455731,192.168.1.16,user_014,SYSTEM_UPDATE,INFO,200,223.85,Success: SYSTEM_UPDATE completed normally. Response time: 223.85ms,0
+2025-01-19 22:48:11.455731,192.168.1.21,user_007,DATABASE_QUERY,INFO,200,208.86,Success: DATABASE_QUERY completed normally. Response time: 208.86ms,0
+2025-01-19 22:48:31.455731,192.168.1.44,user_017,SYSTEM_UPDATE,INFO,200,216.64,Success: SYSTEM_UPDATE completed normally. Response time: 216.64ms,0
+2025-01-19 22:51:44.455731,192.168.1.22,user_012,API_CALL,INFO,200,209.32,Success: API_CALL completed normally. Response time: 209.32ms,0
+2025-01-19 23:15:31.455731,192.168.1.42,user_014,API_CALL,INFO,200,298.2,Success: API_CALL completed normally. Response time: 298.20ms,0
+2025-01-19 23:38:28.455731,192.168.1.47,user_006,SYSTEM_UPDATE,INFO,200,152.45,Success: SYSTEM_UPDATE completed normally. Response time: 152.45ms,0
+2025-01-19 23:42:43.455731,192.168.1.36,user_009,LOGIN,INFO,201,128.85,Success: LOGIN completed normally. Response time: 128.85ms,0
+2025-01-19 23:52:57.455731,192.168.1.14,user_001,API_CALL,INFO,200,183.43,Success: API_CALL completed normally. Response time: 183.43ms,0
+2025-01-20 00:01:11.455731,192.168.1.50,user_006,DATABASE_QUERY,INFO,200,201.89,Success: DATABASE_QUERY completed normally. Response time: 201.89ms,0
+2025-01-20 00:10:11.455731,192.168.1.32,user_019,API_CALL,INFO,201,253.87,Success: API_CALL completed normally. Response time: 253.87ms,0
+2025-01-20 00:13:16.455731,192.168.1.4,user_014,API_CALL,CRITICAL,500,250.47,Server Error: API_CALL failed with status 500. Response time: 250.47ms,1
+2025-01-20 00:16:43.455731,192.168.1.22,user_006,LOGOUT,ERROR,401,229.23,Client Error: LOGOUT request failed with status 401. Response time: 229.23ms,0
+2025-01-20 00:30:41.455731,192.168.1.28,user_009,SYSTEM_UPDATE,INFO,200,114.59,Success: SYSTEM_UPDATE completed normally. Response time: 114.59ms,0
+2025-01-20 00:40:53.455731,192.168.1.23,user_009,LOGOUT,INFO,200,203.71,Success: LOGOUT completed normally. Response time: 203.71ms,0
+2025-01-20 00:44:57.455731,192.168.1.19,user_013,FILE_ACCESS,INFO,200,302.16,Success: FILE_ACCESS completed normally. Response time: 302.16ms,0
+2025-01-20 00:51:47.455731,192.168.1.40,user_017,FILE_ACCESS,INFO,200,134.07,Success: FILE_ACCESS completed normally. Response time: 134.07ms,0
+2025-01-20 00:54:35.455731,192.168.1.38,user_004,SYSTEM_UPDATE,INFO,200,241.21,Success: SYSTEM_UPDATE completed normally. Response time: 241.21ms,0
+2025-01-20 01:16:26.455731,192.168.1.3,user_006,FILE_ACCESS,INFO,200,224.32,Success: FILE_ACCESS completed normally. Response time: 224.32ms,0
+2025-01-20 01:26:45.455731,192.168.1.7,user_005,DATABASE_QUERY,INFO,200,148.46,Success: DATABASE_QUERY completed normally. Response time: 148.46ms,0
+2025-01-20 01:28:36.455731,192.168.1.17,user_002,FILE_ACCESS,INFO,200,186.16,Success: FILE_ACCESS completed normally. Response time: 186.16ms,0
+2025-01-20 01:43:24.455731,192.168.1.42,user_007,SYSTEM_UPDATE,INFO,200,270.69,Success: SYSTEM_UPDATE completed normally. Response time: 270.69ms,0
+2025-01-20 01:59:16.455731,192.168.1.22,user_017,LOGIN,INFO,200,241.93,Success: LOGIN completed normally. Response time: 241.93ms,0
+2025-01-20 02:14:27.455731,192.168.1.3,user_006,LOGIN,ERROR,400,244.4,Client Error: LOGIN request failed with status 400. Response time: 244.40ms,0
+2025-01-20 02:30:03.455731,192.168.1.20,user_016,FILE_ACCESS,INFO,200,194.14,Success: FILE_ACCESS completed normally. Response time: 194.14ms,0
+2025-01-20 02:39:00.455731,192.168.1.38,user_006,API_CALL,INFO,200,193.76,Success: API_CALL completed normally. Response time: 193.76ms,0
+2025-01-20 02:41:58.455731,192.168.1.49,user_002,FILE_ACCESS,INFO,200,241.85,Success: FILE_ACCESS completed normally. Response time: 241.85ms,0
+2025-01-20 02:55:36.455731,192.168.1.40,user_004,SYSTEM_UPDATE,INFO,201,181.67,Success: SYSTEM_UPDATE completed normally. Response time: 181.67ms,0
+2025-01-20 03:05:15.455731,192.168.1.36,user_016,DATABASE_QUERY,ERROR,401,217.1,Client Error: DATABASE_QUERY request failed with status 401. Response time: 217.10ms,0
+2025-01-20 03:07:34.455731,192.168.1.16,user_014,API_CALL,INFO,200,245.8,Success: API_CALL completed normally. Response time: 245.80ms,0
+2025-01-20 03:28:45.455731,192.168.1.25,user_019,SYSTEM_UPDATE,INFO,200,296.05,Success: SYSTEM_UPDATE completed normally. Response time: 296.05ms,0
+2025-01-20 03:31:12.455731,192.168.1.38,user_009,DATABASE_QUERY,INFO,200,248.02,Success: DATABASE_QUERY completed normally. Response time: 248.02ms,0
+2025-01-20 04:02:26.455731,192.168.1.3,user_013,SYSTEM_UPDATE,INFO,200,277.38,Success: SYSTEM_UPDATE completed normally. Response time: 277.38ms,0
+2025-01-20 04:22:22.455731,192.168.1.43,user_004,API_CALL,INFO,200,147.78,Success: API_CALL completed normally. Response time: 147.78ms,0
+2025-01-20 04:46:51.455731,192.168.1.13,user_016,API_CALL,INFO,200,182.03,Success: API_CALL completed normally. Response time: 182.03ms,0
+2025-01-20 04:48:03.455731,192.168.1.9,user_016,LOGOUT,INFO,201,194.23,Success: LOGOUT completed normally. Response time: 194.23ms,0
+2025-01-20 04:55:15.455731,192.168.1.33,user_005,DATABASE_QUERY,INFO,201,191.08,Success: DATABASE_QUERY completed normally. Response time: 191.08ms,0
+2025-01-20 04:57:55.455731,192.168.1.19,user_001,FILE_ACCESS,INFO,201,163.14,Success: FILE_ACCESS completed normally. Response time: 163.14ms,0
+2025-01-20 05:12:20.455731,192.168.1.23,user_010,LOGOUT,ERROR,400,167.92,Client Error: LOGOUT request failed with status 400. Response time: 167.92ms,0
+2025-01-20 05:13:07.455731,192.168.1.29,user_003,LOGOUT,INFO,200,209.21,Success: LOGOUT completed normally. Response time: 209.21ms,0
+2025-01-20 05:17:07.455731,192.168.1.16,user_002,LOGOUT,INFO,201,143.27,Success: LOGOUT completed normally. Response time: 143.27ms,0
+2025-01-20 05:18:51.455731,192.168.1.9,user_018,LOGIN,ERROR,404,119.35,Client Error: LOGIN request failed with status 404. Response time: 119.35ms,0
+2025-01-20 05:44:52.455731,192.168.1.6,user_015,DATABASE_QUERY,INFO,200,196.54,Success: DATABASE_QUERY completed normally. Response time: 196.54ms,0
+2025-01-20 06:20:20.455731,192.168.1.23,user_002,LOGOUT,INFO,201,150.91,Success: LOGOUT completed normally. Response time: 150.91ms,0
+2025-01-20 06:23:08.455731,192.168.1.19,user_017,FILE_ACCESS,INFO,200,176.34,Success: FILE_ACCESS completed normally. Response time: 176.34ms,0
+2025-01-20 07:03:55.455731,192.168.1.17,user_020,LOGIN,INFO,201,239.85,Success: LOGIN completed normally. Response time: 239.85ms,0
+2025-01-20 07:11:13.455731,192.168.1.36,user_001,API_CALL,CRITICAL,503,219.89,Server Error: API_CALL failed with status 503. Response time: 219.89ms,1
+2025-01-20 07:15:43.455731,192.168.1.30,user_020,SYSTEM_UPDATE,INFO,200,159.61,Success: SYSTEM_UPDATE completed normally. Response time: 159.61ms,0
+2025-01-20 07:18:58.455731,192.168.1.30,user_015,API_CALL,INFO,201,226.4,Success: API_CALL completed normally. Response time: 226.40ms,0
+2025-01-20 07:42:56.455731,192.168.1.21,user_008,FILE_ACCESS,INFO,200,156.27,Success: FILE_ACCESS completed normally. Response time: 156.27ms,0
+2025-01-20 08:11:20.455731,192.168.1.35,user_003,FILE_ACCESS,INFO,200,204.95,Success: FILE_ACCESS completed normally. Response time: 204.95ms,0
+2025-01-20 08:29:12.455731,192.168.1.3,user_020,API_CALL,INFO,200,227.09,Success: API_CALL completed normally. Response time: 227.09ms,0
+2025-01-20 08:29:52.455731,192.168.1.40,user_009,DATABASE_QUERY,INFO,200,186.01,Success: DATABASE_QUERY completed normally. Response time: 186.01ms,0
+2025-01-20 08:40:02.455731,192.168.1.35,user_010,DATABASE_QUERY,INFO,200,280.37,Success: DATABASE_QUERY completed normally. Response time: 280.37ms,0
+2025-01-20 09:03:08.455731,192.168.1.23,user_012,API_CALL,INFO,200,162.51,Success: API_CALL completed normally. Response time: 162.51ms,0
+2025-01-20 09:05:17.455731,192.168.1.48,user_007,FILE_ACCESS,INFO,200,169.46,Success: FILE_ACCESS completed normally. Response time: 169.46ms,0
+2025-01-20 10:16:38.455731,192.168.1.27,user_005,FILE_ACCESS,CRITICAL,503,223.09,Server Error: FILE_ACCESS failed with status 503. Response time: 223.09ms,1
+2025-01-20 10:20:42.455731,192.168.1.29,user_007,SYSTEM_UPDATE,ERROR,403,220.1,Client Error: SYSTEM_UPDATE request failed with status 403. Response time: 220.10ms,0
+2025-01-20 10:26:04.455731,192.168.1.13,user_015,LOGOUT,INFO,200,202.73,Success: LOGOUT completed normally. Response time: 202.73ms,0
+2025-01-20 10:26:24.455731,192.168.1.49,user_017,LOGIN,INFO,201,130.59,Success: LOGIN completed normally. Response time: 130.59ms,0
+2025-01-20 10:34:57.455731,192.168.1.14,user_015,LOGIN,INFO,200,223.06,Success: LOGIN completed normally. Response time: 223.06ms,0
+2025-01-20 10:36:40.455731,192.168.1.13,user_015,LOGOUT,INFO,200,285.17,Success: LOGOUT completed normally. Response time: 285.17ms,0
+2025-01-20 10:39:43.455731,192.168.1.47,user_005,FILE_ACCESS,INFO,200,254.16,Success: FILE_ACCESS completed normally. Response time: 254.16ms,0
+2025-01-20 10:40:56.455731,192.168.1.41,user_007,SYSTEM_UPDATE,INFO,200,230.51,Success: SYSTEM_UPDATE completed normally. Response time: 230.51ms,0
+2025-01-20 11:04:47.455731,192.168.1.16,user_013,API_CALL,ERROR,400,175.05,Client Error: API_CALL request failed with status 400. Response time: 175.05ms,0
+2025-01-20 11:20:44.455731,192.168.1.21,user_016,API_CALL,INFO,200,227.36,Success: API_CALL completed normally. Response time: 227.36ms,0
+2025-01-20 11:22:45.455731,192.168.1.1,user_003,SYSTEM_UPDATE,INFO,200,153.81,Success: SYSTEM_UPDATE completed normally. Response time: 153.81ms,0
+2025-01-20 11:24:39.455731,192.168.1.35,user_009,LOGIN,INFO,200,193.49,Success: LOGIN completed normally. Response time: 193.49ms,0
+2025-01-20 11:29:52.455731,192.168.1.29,user_017,API_CALL,INFO,200,307.72,Success: API_CALL completed normally. Response time: 307.72ms,0
+2025-01-20 11:39:46.455731,192.168.1.2,user_005,FILE_ACCESS,INFO,200,246.44,Success: FILE_ACCESS completed normally. Response time: 246.44ms,0
+2025-01-20 11:45:22.455731,192.168.1.1,user_017,LOGIN,CRITICAL,500,218.87,Server Error: LOGIN failed with status 500. Response time: 218.87ms,1
+2025-01-20 11:55:39.455731,192.168.1.47,user_012,SYSTEM_UPDATE,INFO,200,215.31,Success: SYSTEM_UPDATE completed normally. Response time: 215.31ms,0
+2025-01-20 12:43:16.455731,192.168.1.3,user_009,SYSTEM_UPDATE,ERROR,400,180.11,Client Error: SYSTEM_UPDATE request failed with status 400. Response time: 180.11ms,0
+2025-01-20 12:46:46.455731,192.168.1.40,user_004,SYSTEM_UPDATE,INFO,200,221.34,Success: SYSTEM_UPDATE completed normally. Response time: 221.34ms,0
+2025-01-20 12:48:57.455731,192.168.1.50,user_020,LOGIN,INFO,200,239.1,Success: LOGIN completed normally. Response time: 239.10ms,0
+2025-01-20 12:54:44.455731,192.168.1.4,user_020,FILE_ACCESS,INFO,200,293.11,Success: FILE_ACCESS completed normally. Response time: 293.11ms,0
